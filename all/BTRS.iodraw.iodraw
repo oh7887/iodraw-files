@@ -1085,6 +1085,9 @@
         <mxCell id="GzaPbGC-E4hXa_7uFBXB-10" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
           <mxGeometry x="24292.05" y="16290" width="37.95" height="40" as="geometry" />
         </mxCell>
+        <mxCell id="EBItQIzEXo0ifXA_qwIS-8" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="GzaPbGC-E4hXa_7uFBXB-11" target="EBItQIzEXo0ifXA_qwIS-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="GzaPbGC-E4hXa_7uFBXB-11" value="" style="sketch=0;outlineConnect=0;fontColor=#ffffff;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.organizations_account;" parent="1" vertex="1">
           <mxGeometry x="24344.1" y="16350" width="37.95" height="40" as="geometry" />
         </mxCell>
