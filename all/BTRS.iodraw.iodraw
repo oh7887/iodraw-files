@@ -9,7 +9,7 @@
         </mxCell>
         <UserObject label="https://xufeisofly.github.io/picx-images-hosting/hotstuff/Untitled-9.wipp47dt1.png" link="https://xufeisofly.github.io/picx-images-hosting/hotstuff/Untitled-9.wipp47dt1.png" id="uf44oyKrl5lmizP2GyIm-2">
           <mxCell style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-            <mxGeometry x="17530" y="7599" width="12400" height="9410" as="geometry" />
+            <mxGeometry x="17810" y="7730" width="12400" height="9410" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="uf44oyKrl5lmizP2GyIm-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=10;startArrow=classic;startFill=1;dashed=1;dashPattern=1 4;" parent="1" source="uf44oyKrl5lmizP2GyIm-6" target="uf44oyKrl5lmizP2GyIm-671" edge="1">
@@ -1068,7 +1068,7 @@
           <mxGeometry x="23080" y="15730" width="729" height="445" as="geometry" />
         </mxCell>
         <mxCell id="GzaPbGC-E4hXa_7uFBXB-6" value="" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#dae8fc;strokeColor=#6c8ebf;" parent="1" vertex="1">
-          <mxGeometry x="24130" y="16280" width="560" height="132" as="geometry" />
+          <mxGeometry x="24070" y="16480" width="560" height="132" as="geometry" />
         </mxCell>
         <mxCell id="GzaPbGC-E4hXa_7uFBXB-9" value="&lt;b&gt;&lt;font style=&quot;font-size: 14px;&quot;&gt;Initial Blockchain Network&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="23930" y="16309" width="140" height="74" as="geometry" />
