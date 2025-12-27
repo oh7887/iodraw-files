@@ -23,7 +23,10 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-3" value="&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;FISCO BCOS&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;（飞梭链）的大豆溯源系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1090" y="60" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-11">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-15" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-11">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-12">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-5" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;用户层&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;" vertex="1" parent="1">
@@ -47,7 +50,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-13" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;用户层&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1510" y="450" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.562;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-10">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.562;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
