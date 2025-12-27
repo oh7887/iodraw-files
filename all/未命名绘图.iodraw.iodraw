@@ -9,8 +9,8 @@
             <mxGeometry x="70" y="70" width="560" height="460" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-2" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="940" y="110" width="80" height="80" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-3" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="850" y="110" width="140" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
