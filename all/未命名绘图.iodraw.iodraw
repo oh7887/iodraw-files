@@ -1,9 +1,12 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="5724" dy="2390" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3532" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
+          <mxGeometry x="10" y="20" width="2450" height="2450" as="geometry" />
+        </mxCell>
         <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" id="iv0AfEV3e4Oj9upSNYWM-1">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
             <mxGeometry x="-1100" y="200" width="560" height="460" as="geometry" />
@@ -79,9 +82,6 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.561;entryY=-0.008;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-6" target="iv0AfEV3e4Oj9upSNYWM-20">
           <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-28" value="" style="whiteSpace=wrap;html=1;aspect=fixed;" vertex="1" parent="1">
-          <mxGeometry x="10" y="20" width="1010" height="1010" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
