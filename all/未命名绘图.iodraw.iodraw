@@ -1,12 +1,12 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="2353" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="1526" dy="896" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" id="iv0AfEV3e4Oj9upSNYWM-1">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="-270" y="140" width="560" height="460" as="geometry" />
+            <mxGeometry x="70" y="70" width="560" height="460" as="geometry" />
           </mxCell>
         </UserObject>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-3" target="iv0AfEV3e4Oj9upSNYWM-5">
@@ -50,13 +50,8 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-13" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;用户层&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1510" y="450" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.562;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-10">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="755" y="360" as="sourcePoint" />
-            <Array as="points">
-              <mxPoint x="509" y="361" />
-            </Array>
-          </mxGeometry>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-14" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.562;entryY=0.021;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=2;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-5" target="iv0AfEV3e4Oj9upSNYWM-10">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
