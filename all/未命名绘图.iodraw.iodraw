@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="7942" dy="2868" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2818" dy="531" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -244,6 +244,14 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-90" value="&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;区&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;链&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;节&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;点&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;管&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;&lt;div style=&quot;font-size: 30px;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 30px;&quot;&gt;理&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;fontSize=30;fontStyle=0" vertex="1" parent="1">
           <mxGeometry x="2980" y="1320" width="80" height="540" as="geometry" />
+        </mxCell>
+        <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/Qjd0cm00ejRESnhhU08vSElnWFJGODlIRXg3OEUyM1YvYjM2eHlwVVQ5YnZMOFJLWHdpRTh3WDEwNGRXdHlJSEtGTWxPUXI0eDhxd0NvRHpLZDNRUCtHditnVTUrVzFYVXlNYnV5dmhwR0R3S2RIblNibXI2UFFzcDRxRjhMa21ONjhFN1Jad2FTOVY3ckQ1K3hFNEkwRTZhc1U2akJvSURXYTd3VGxGZG9oUjRseldZNVY4Wnh1RUpXRXIwenBhSEtsWHFVWERaQndhOTUzY09UNDFtR0hjOGdJTjEzUzZaeEVxdnJQVTJ2QVY1R0p1QTdrMzgwSEh0a2lKZVBxYmNNUDdPdGYybnpjPQ==/attach/object/4d3e08cb12674e98df6d398dd2a461171f79b44c?&quot; width=&quot;386&quot; height=&quot;262&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/Qjd0cm00ejRESnhhU08vSElnWFJGODlIRXg3OEUyM1YvYjM2eHlwVVQ5YnZMOFJLWHdpRTh3WDEwNGRXdHlJSEtGTWxPUXI0eDhxd0NvRHpLZDNRUCtHditnVTUrVzFYVXlNYnV5dmhwR0R3S2RIblNibXI2UFFzcDRxRjhMa21ONjhFN1Jad2FTOVY3ckQ1K3hFNEkwRTZhc1U2akJvSURXYTd3VGxGZG9oUjRseldZNVY4Wnh1RUpXRXIwenBhSEtsWHFVWERaQndhOTUzY09UNDFtR0hjOGdJTjEzUzZaeEVxdnJQVTJ2QVY1R0p1QTdrMzgwSEh0a2lKZVBxYmNNUDdPdGYybnpjPQ==/attach/object/4d3e08cb12674e98df6d398dd2a461171f79b44c?&quot; width=&quot;386&quot; height=&quot;262&quot;&gt;&lt;/div&gt;" id="iv0AfEV3e4Oj9upSNYWM-95">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="-970" y="2010" width="420" height="290" as="geometry" />
+          </mxCell>
+        </UserObject>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-96" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="-170" y="1880" width="120" height="410" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
