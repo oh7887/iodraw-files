@@ -1580,7 +1580,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-731" value="文件预览数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-730">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-731" value="最新公告数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-730">
           <mxGeometry x="-0.1939" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
