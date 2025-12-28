@@ -907,9 +907,6 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-422" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆溯源码生成&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10960" y="1766" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-427" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户登录&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="10960" y="1875" width="80" height="80" as="geometry" />
-        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-428" value="大豆农产品智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="11170" y="1615" width="120" height="60" as="geometry" />
         </mxCell>
