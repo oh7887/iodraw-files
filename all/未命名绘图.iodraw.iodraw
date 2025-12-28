@@ -1825,8 +1825,8 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-828" value="DROP TABLE IF EXISTS `notice`;&#xa;CREATE TABLE `notice`  (&#xa;  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT &#39;主键&#39;,&#xa;  `title` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL COMMENT &#39;公告标题&#39;,&#xa;  `content` varchar(1000) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NOT NULL COMMENT &#39;公告内容&#39;,&#xa;  `user` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT &#39;创建者&#39;,&#xa;  `create_time` timestamp NULL DEFAULT CURRENT_TIMESTAMP,&#xa;  PRIMARY KEY (`id`) USING BTREE&#xa;) ENGINE = InnoDB AUTO_INCREMENT = 9 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = DYNAMIC;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="8890" y="120" width="560" height="210" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-830" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8760" y="380" width="90" height="50" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-830" value="标题" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="8800" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-831" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="8639" y="455" width="90" height="50" as="geometry" />
@@ -1838,7 +1838,10 @@
           <mxGeometry x="8549" y="670" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-834" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9300" y="455" width="90" height="50" as="geometry" />
+          <mxGeometry x="8700" y="670" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-835" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="8890" y="640" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
