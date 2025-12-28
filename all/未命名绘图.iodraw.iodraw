@@ -1737,7 +1737,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-786" value="溯源码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9990" y="770" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-787" value="农产品名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-787" value="大豆产品名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9880" y="900" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-794" value="产地" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
@@ -1779,6 +1779,9 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-807" value="大豆产品名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9430" y="900" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-808" value="收货日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="9180" y="795" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
