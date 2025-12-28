@@ -250,26 +250,19 @@
             <mxGeometry x="-1050" y="1980" width="420" height="290" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-96" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-110" y="1890" width="40" height="410" as="geometry" />
-        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-103" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-97" target="iv0AfEV3e4Oj9upSNYWM-101">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-97" value="农民用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-395" y="1820" width="30" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-101" target="iv0AfEV3e4Oj9upSNYWM-102">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-104" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-101">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-350" y="2125" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-101" value="用户注册" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-440" y="1960" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-105" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.25;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-102" target="iv0AfEV3e4Oj9upSNYWM-96">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-102" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-290" y="1960" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
