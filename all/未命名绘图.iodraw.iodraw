@@ -1033,8 +1033,10 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-425" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-427" target="iv0AfEV3e4Oj9upSNYWM-429">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-425" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-427">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="11170" y="1860" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-426" value="生成令牌" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-425">
           <mxGeometry x="-0.0954" y="2" relative="1" as="geometry">
@@ -1046,9 +1048,6 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-428" value="大豆农产品智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="11170" y="1615" width="120" height="60" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-429" value="令牌与会话存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11170" y="1815" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
