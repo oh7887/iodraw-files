@@ -824,6 +824,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-354" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.25;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-329" target="iv0AfEV3e4Oj9upSNYWM-341">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-329" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户信息更新与删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10950" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
@@ -870,6 +873,9 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-341" value="令牌与会话存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="11160" y="1330" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-355" value="Text" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="11105" y="1268" width="50" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
