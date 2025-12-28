@@ -922,6 +922,13 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-428" value="大豆农产品智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
           <mxGeometry x="11180" y="1768" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-433" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.776;entryY=0.023;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-410" target="iv0AfEV3e4Oj9upSNYWM-405">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="10930" y="1800" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
