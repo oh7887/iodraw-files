@@ -1369,6 +1369,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-657" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;文件预览&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11920" y="1244" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-690" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-662" target="iv0AfEV3e4Oj9upSNYWM-668">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-662" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;文件下载&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11920" y="1356" width="80" height="80" as="geometry" />
         </mxCell>
