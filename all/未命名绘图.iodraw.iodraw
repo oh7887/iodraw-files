@@ -1,14 +1,9 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="14974" dy="7170" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3703" dy="1103" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <UserObject label="&#xa;&lt;div&gt;&lt;img height=&quot;662.6&quot; width=&quot;552.4&quot; src=&quot;http://www.kdocs.cn/api/v3/office/copy/VjR5K0lVcTJEZ3lUUVlZQmxOd0JMa09QRXVIYjdxbkwySXI5UzN5aDBkMTF0VlVxVlNhZERObHJOMjB5Qi92cjB3WGxlNGljN3YrMWpOekplZzRkNmRIY0hhcnF6K1JTUktnODkvR3BBM3dxNUV1WXdiMFdUNEVtOVJpNDFvYzNweHBLdTA4b3d6NjJOMHBITFF3TlBtOE5rcmhNOXdnQ0o1eHNyL2RlN0RBTklTR2Y1MitVTnNHMmNxTGN0SWdjN0lXL1k4Y1BBWDFnc2NBZEJEK1Fsbnl5RUlidzlzQWc1R2RNenJjbng1TURtY3NvRG1LdXpDdjZoL1dpVzZhMDN5M2RYYlZrWVJrPQ==/attach/object/b1eba529e1b6b94dc6d0d79464c649558cc76f47?&quot;&gt;&lt;/div&gt;&#xa;&#xa;" link="&#xa;&lt;div&gt;&lt;img height=&quot;662.6&quot; width=&quot;552.4&quot; src=&quot;http://www.kdocs.cn/api/v3/office/copy/VjR5K0lVcTJEZ3lUUVlZQmxOd0JMa09QRXVIYjdxbkwySXI5UzN5aDBkMTF0VlVxVlNhZERObHJOMjB5Qi92cjB3WGxlNGljN3YrMWpOekplZzRkNmRIY0hhcnF6K1JTUktnODkvR3BBM3dxNUV1WXdiMFdUNEVtOVJpNDFvYzNweHBLdTA4b3d6NjJOMHBITFF3TlBtOE5rcmhNOXdnQ0o1eHNyL2RlN0RBTklTR2Y1MitVTnNHMmNxTGN0SWdjN0lXL1k4Y1BBWDFnc2NBZEJEK1Fsbnl5RUlidzlzQWc1R2RNenJjbng1TURtY3NvRG1LdXpDdjZoL1dpVzZhMDN5M2RYYlZrWVJrPQ==/attach/object/b1eba529e1b6b94dc6d0d79464c649558cc76f47?&quot;&gt;&lt;/div&gt;&#xa;&#xa;" id="iv0AfEV3e4Oj9upSNYWM-227">
-          <mxCell style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-            <mxGeometry x="2850" y="2540" width="720" height="750" as="geometry" />
-          </mxCell>
-        </UserObject>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="710" width="3065" height="1760" as="geometry" />
         </mxCell>
@@ -560,6 +555,11 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-229" value="农户\供应商\分销商\消费者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="1580" y="2960" width="30" height="60" as="geometry" />
         </mxCell>
+        <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/VjR5K0lVcTJEZ3lUUVlZQmxOd0JMa09QRXVIYjdxbkwySXI5UzN5aDBkMTF0VlVxVlNhZERObHJOMjB5Qi92cjB3WGxlNGljN3YrMWpOekplZzRkNmRIY0hhcnF6K1JTUktnODkvR3BBM3dxNUV1WXdiMFdUNEVtOVJpNDFvYzNweHBLdTA4b3d6NjJOMHBITFF3TlBtOE5rcmhNOXdnQ0o1eHNyL2RlN0RBTklTR2Y1MitVTnNHMmNxTGN0SWdjN0lXL1k4Y1BBWDFnc2NBZEJEK1Fsbnl5RUlidzlzQWc1R2RNenJjbng1TURtY3NvRG1LdXpDdjZoL1dpVzZhMDN5M2RYYlZrWVJrPQ==/attach/object/b1eba529e1b6b94dc6d0d79464c649558cc76f47?&quot; width=&quot;552.4&quot; height=&quot;662.6&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/VjR5K0lVcTJEZ3lUUVlZQmxOd0JMa09QRXVIYjdxbkwySXI5UzN5aDBkMTF0VlVxVlNhZERObHJOMjB5Qi92cjB3WGxlNGljN3YrMWpOekplZzRkNmRIY0hhcnF6K1JTUktnODkvR3BBM3dxNUV1WXdiMFdUNEVtOVJpNDFvYzNweHBLdTA4b3d6NjJOMHBITFF3TlBtOE5rcmhNOXdnQ0o1eHNyL2RlN0RBTklTR2Y1MitVTnNHMmNxTGN0SWdjN0lXL1k4Y1BBWDFnc2NBZEJEK1Fsbnl5RUlidzlzQWc1R2RNenJjbng1TURtY3NvRG1LdXpDdjZoL1dpVzZhMDN5M2RYYlZrWVJrPQ==/attach/object/b1eba529e1b6b94dc6d0d79464c649558cc76f47?&quot; width=&quot;552.4&quot; height=&quot;662.6&quot;&gt;&lt;/div&gt;" id="iv0AfEV3e4Oj9upSNYWM-244">
+          <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+            <mxGeometry x="3650" y="2670" width="560" height="690" as="geometry" />
+          </mxCell>
+        </UserObject>
       </root>
     </mxGraphModel>
   </diagram>
