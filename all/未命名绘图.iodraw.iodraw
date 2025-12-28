@@ -587,6 +587,11 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-259" value="验证用户信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-253">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-298" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iv0AfEV3e4Oj9upSNYWM-253" source="iv0AfEV3e4Oj9upSNYWM-256">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-60" y="260" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-256" value="更新用户信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-253">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
@@ -698,7 +703,21 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-296" value="文件预览" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-293">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-297" value="更新用户信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-293">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-297" value="文件下载\删除" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-293">
+          <mxGeometry y="90" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-299" value="文件管理模块" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
+          <mxGeometry x="3540" y="2740" width="140" height="120" as="geometry">
+            <mxRectangle x="3590" y="2570" width="60" height="30" as="alternateBounds" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-300" value="文件上传" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-299">
+          <mxGeometry y="30" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-301" value="文件预览" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-299">
+          <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-302" value="文件下载\删除" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;fontStyle=1;fontSize=12;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-299">
           <mxGeometry y="90" width="140" height="30" as="geometry" />
         </mxCell>
       </root>
