@@ -403,7 +403,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-158" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-157" target="iv0AfEV3e4Oj9upSNYWM-148">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-159" value="分销商用户" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-159" value="消费者" style="shape=umlActor;verticalLabelPosition=bottom;verticalAlign=top;html=1;outlineConnect=0;" vertex="1" parent="1">
           <mxGeometry x="-500" y="3235" width="30" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-160" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-161" target="iv0AfEV3e4Oj9upSNYWM-162">
@@ -415,7 +415,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-162" value="展示溯源码、库存码" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-570" y="3125" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-163" value="库存码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-163" value="商品码码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-250" y="3125" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
