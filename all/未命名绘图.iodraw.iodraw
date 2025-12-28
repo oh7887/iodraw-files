@@ -847,6 +847,9 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-359" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-329" target="iv0AfEV3e4Oj9upSNYWM-327">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-329" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户信息更新与删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10950" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
