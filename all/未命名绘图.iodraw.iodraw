@@ -1,11 +1,11 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="3557" dy="1024" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="2986" dy="717" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4390" y="1175" width="3065" height="1760" as="geometry" />
+          <mxGeometry x="2290" y="1670" width="3065" height="1760" as="geometry" />
         </mxCell>
         <UserObject label="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" link="&lt;div&gt;&lt;img src=&quot;http://www.kdocs.cn/api/v3/office/copy/cDhaQnJSeFFyNVRTOXdPVGdBaEt6b05HMlNLckI5RVhJR2Z5RlNGYytLTzgxNktYRkdjSGF2M05qNDdRL01tTjNVOVpVRzJRMTFPRjVDaW1PNmlYRGtRY3pYN2k3UllJdEQ3NFEwWkt4aVpoQjJRb08zWkdaN1hJNng3YTdOMkNIc0c0c1BZT3BuWWpjYzZNU1lmM2syUTRkNFNuMFR3eWliUnlJRXhVODg2ZDZkUUY4dXEyL1ZmWFdWNEdQNlMyL2RQY1J6NXZRSEpWYVJvSW1ndXIyVlQrRGV2QU43cWtkOXlTSVBGaEhHVGVEMDFmSDZuYUZqMkQ1QWZSVUJqbGprbUN3NXUzaHJ3PQ==/attach/object/2c88215a818e6a6b0d45f001ffea03ac07d20b20?&quot; width=&quot;553.7333333333333&quot; height=&quot;434.26666666666665&quot;&gt;&lt;/div&gt;" id="iv0AfEV3e4Oj9upSNYWM-1">
           <mxCell style="text;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -667,6 +667,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-284" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-281" target="iv0AfEV3e4Oj9upSNYWM-268">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-309" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-285" target="iv0AfEV3e4Oj9upSNYWM-305">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-285" value="溯源管理模块" style="swimlane;fontStyle=1;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;fontSize=12;" vertex="1" parent="1">
           <mxGeometry x="3540" y="3095" width="140" height="60" as="geometry">
             <mxRectangle x="3590" y="2570" width="60" height="30" as="alternateBounds" />
@@ -732,6 +735,9 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-307" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-294" target="iv0AfEV3e4Oj9upSNYWM-304">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-308" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-301" target="iv0AfEV3e4Oj9upSNYWM-304">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
