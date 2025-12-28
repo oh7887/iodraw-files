@@ -1152,7 +1152,15 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-524" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆商品发送&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-533" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-524" target="iv0AfEV3e4Oj9upSNYWM-527">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-534" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-533">
+          <mxGeometry x="0.2177" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-524" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆商品上架&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11170" y="3126" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-525" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-527" target="iv0AfEV3e4Oj9upSNYWM-519">
