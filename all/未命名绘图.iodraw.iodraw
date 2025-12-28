@@ -289,7 +289,10 @@
           <mxGeometry x="-430" y="2348" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-120" value="溯源码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-430" y="2090" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="2190" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-121" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.003;entryY=0.805;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-120" target="iv0AfEV3e4Oj9upSNYWM-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
