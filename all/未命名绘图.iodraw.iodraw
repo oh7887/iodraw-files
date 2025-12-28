@@ -1690,7 +1690,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-771" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758" target="iv0AfEV3e4Oj9upSNYWM-763">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-776" value="农产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-776" value="发货" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9820" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-779" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-777" target="iv0AfEV3e4Oj9upSNYWM-776">
@@ -1704,7 +1704,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-777" value="供/求" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9820" y="630" width="120" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-782" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-782" value="发货日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9960" y="710" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-783" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
