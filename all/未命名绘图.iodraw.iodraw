@@ -1300,11 +1300,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-677" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-645" target="iv0AfEV3e4Oj9upSNYWM-657">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-677" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.895;exitY=0;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-645" target="iv0AfEV3e4Oj9upSNYWM-657">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="11850" y="1270" />
+              <mxPoint x="11850" y="1280" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-678" value="文件预览请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-677">
+          <mxGeometry x="-0.0206" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-645" value="&lt;b&gt;业务用户（农户、仓储、分销商、消费者）&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
