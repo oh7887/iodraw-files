@@ -1664,6 +1664,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-772" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758" target="iv0AfEV3e4Oj9upSNYWM-764">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-778" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758" target="iv0AfEV3e4Oj9upSNYWM-777">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-758" value="农产品" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9820" y="490" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1686,7 +1689,7 @@
           <mxGeometry x="9820" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-777" value="供/求" style="rhombus;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9810" y="630" width="120" height="80" as="geometry" />
+          <mxGeometry x="9820" y="630" width="120" height="80" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
