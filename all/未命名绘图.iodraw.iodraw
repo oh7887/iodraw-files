@@ -347,11 +347,11 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-141" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-142" target="iv0AfEV3e4Oj9upSNYWM-143">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-142" value="大豆农产品收货" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
-          <mxGeometry x="-620" y="2535" width="120" height="60" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-142" value="&lt;b&gt;大豆农产品收货&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=0" vertex="1" parent="1">
+          <mxGeometry x="-430" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-143" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="-780" y="2535" width="120" height="60" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-143" value="展示溯源码、库存码" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="-590" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-144" value="库存码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-270" y="2550" width="120" height="60" as="geometry" />
