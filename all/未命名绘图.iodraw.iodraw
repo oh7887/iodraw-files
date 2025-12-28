@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="3014" dy="2023" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5460" dy="2049" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -101,7 +101,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-47" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;strokeWidth=2;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-32" target="iv0AfEV3e4Oj9upSNYWM-45">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-32" target="iv0AfEV3e4Oj9upSNYWM-48">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-49" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;strokeWidth=3;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-32" target="iv0AfEV3e4Oj9upSNYWM-48">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-32" value="&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;FISCO BCOS&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;（飞梭链）的大豆溯源系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="1">
