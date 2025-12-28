@@ -1856,6 +1856,12 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-840" value="DROP TABLE IF EXISTS `sys_file`;&#xa;CREATE TABLE `sys_file`  (&#xa;  `id` int(11) NOT NULL AUTO_INCREMENT COMMENT &#39;主键&#39;,&#xa;  `name` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT &#39;文件名称&#39;,&#xa;  `type` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT &#39;文件类型&#39;,&#xa;  `size` bigint(20) NULL DEFAULT NULL COMMENT &#39;文件大小(kb)&#39;,&#xa;  `url` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT &#39;下载链接&#39;,&#xa;  `md5` varchar(255) CHARACTER SET utf8mb4 COLLATE utf8mb4_general_ci NULL DEFAULT NULL COMMENT &#39;文件md5，判断文件唯一的标识&#39;,&#xa;  `is_delete` tinyint(1) NULL DEFAULT 0 COMMENT &#39;0：不删除，1：已经删除&#39;,&#xa;  `enable` tinyint(4) NULL DEFAULT 1 COMMENT &#39;是否启用，0：不启用，1：启用&#39;,&#xa;  PRIMARY KEY (`id`) USING BTREE&#xa;) ENGINE = InnoDB AUTO_INCREMENT = 78 CHARACTER SET = utf8mb4 COLLATE = utf8mb4_general_ci ROW_FORMAT = DYNAMIC;" style="text;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="8490" y="10" width="560" height="270" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-851" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=0.5;entryDx=0;entryDy=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-841" target="iv0AfEV3e4Oj9upSNYWM-847">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-852" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-841" target="iv0AfEV3e4Oj9upSNYWM-849">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-841" value="文件" style="rounded=0;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9380" y="190" width="120" height="60" as="geometry" />
         </mxCell>
@@ -1872,7 +1878,7 @@
           <mxGeometry x="9395" y="90" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-849" value="链接&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; text-wrap: nowrap;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%E6%96%87%E4%BB%B6%E7%B1%BB%E5%9E%8B%22%20style%3D%22ellipse%3BwhiteSpace%3Dwrap%3Bhtml%3D1%3BfontSize%3D16%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%229270%22%20y%3D%22100%22%20width%3D%2290%22%20height%3D%2250%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9555" y="140" width="90" height="50" as="geometry" />
+          <mxGeometry x="9540" y="195" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
