@@ -588,8 +588,8 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-258" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-248" target="iv0AfEV3e4Oj9upSNYWM-255">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-260" value="用户管理模块" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="4010" y="2570" width="140" height="120" as="geometry">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-260" value="大豆农产品管理模块" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="3820" y="2803" width="140" height="120" as="geometry">
             <mxRectangle x="3590" y="2570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
