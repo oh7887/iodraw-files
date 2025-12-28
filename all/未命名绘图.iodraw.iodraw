@@ -1473,7 +1473,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-703" value="文件上传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-702">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-703" value="公告上传数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-702">
           <mxGeometry x="0.3724" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1500,14 +1500,6 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-707" value="下载文件请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-706">
           <mxGeometry x="-0.2257" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-708" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;exitX=0.5;exitY=1;exitDx=0;exitDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-710">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="11820" y="2295" />
-            </Array>
-            <mxPoint x="11970" y="2320" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-710" value="&lt;b&gt;业务用户（农户、仓储、分销商、消费者）&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
@@ -1569,19 +1561,6 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-721" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;公告修改与删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11970" y="2171" width="80" height="80" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-722" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iv0AfEV3e4Oj9upSNYWM-729">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="12170" y="2275" />
-            </Array>
-            <mxPoint x="12048.520941213457" y="2309.2233081129025" as="sourcePoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-724" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" target="iv0AfEV3e4Oj9upSNYWM-710">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11974.274463721098" y="2302.0087227372433" as="sourcePoint" />
-          </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-727" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-729" target="iv0AfEV3e4Oj9upSNYWM-718">
           <mxGeometry relative="1" as="geometry" />
