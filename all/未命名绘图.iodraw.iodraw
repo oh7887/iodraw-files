@@ -1139,7 +1139,7 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-519" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆库存入库&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-519" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆商品入库&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11160" y="2920" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-520" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-524" target="iv0AfEV3e4Oj9upSNYWM-516">
