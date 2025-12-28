@@ -1209,16 +1209,16 @@
           <mxGeometry x="10830" y="3466" width="190" height="41" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-607" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆溯源信息查询&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11120" y="3320" width="80" height="80" as="geometry" />
+          <mxGeometry x="11140" y="3440" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-615" value="大豆存储智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11350" y="3450" width="120" height="60" as="geometry" />
+          <mxGeometry x="11340" y="3340" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-620" value="大豆商品智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11360" y="3552" width="120" height="60" as="geometry" />
+          <mxGeometry x="11350" y="3442" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-621" value="大豆存储智能合约" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11370" y="3650" width="120" height="60" as="geometry" />
+          <mxGeometry x="11350" y="3540" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
