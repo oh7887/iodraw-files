@@ -250,6 +250,11 @@
             <mxGeometry x="-1050" y="1980" width="420" height="290" as="geometry" />
           </mxCell>
         </UserObject>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-117" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.034;exitY=0.53;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-96">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="-150" y="2110" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-96" value="系统" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-110" y="1890" width="40" height="410" as="geometry" />
         </mxCell>
@@ -270,6 +275,9 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-102" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="-290" y="1960" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-118" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-113" target="iv0AfEV3e4Oj9upSNYWM-96">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-113" value="创建大豆农产品" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-280" y="2080" width="120" height="60" as="geometry" />
