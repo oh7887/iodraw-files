@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-192" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1035" y="2590" width="915" height="730" as="geometry" />
+          <mxGeometry x="305" y="2730" width="915" height="730" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-94" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="155" y="710" width="3065" height="1760" as="geometry" />
@@ -465,7 +465,7 @@
           <mxGeometry x="1500" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-190" value="&lt;b&gt;展示商品溯源信息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="1181" y="3050" width="120" height="60" as="geometry" />
+          <mxGeometry x="1350" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
