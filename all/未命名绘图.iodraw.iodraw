@@ -762,7 +762,10 @@
           <mxGeometry x="7180" y="1225" width="200" height="200" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-318" value="" style="shape=image;verticalLabelPosition=bottom;labelBackgroundColor=default;verticalAlign=top;aspect=fixed;imageAspect=0;image=https://pocdn.processon.com/admin/knowledge/article_content_img/68c11e825cc2e9790752f051.png;" vertex="1" parent="1">
-          <mxGeometry x="6180" y="2080" width="1168" height="644" as="geometry" />
+          <mxGeometry x="6540" y="263" width="1168" height="644" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-319" value="" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
+          <mxGeometry x="7170" y="1530" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
