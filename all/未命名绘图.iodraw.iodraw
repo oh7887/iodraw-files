@@ -554,7 +554,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-220" value="&lt;b&gt;文件查询\预览&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1660" y="2870" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-222" value="&lt;b&gt;文件下载&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-222" value="&lt;b&gt;最新公告公告通知&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1810" y="2970" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-224" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.064;entryY=0.779;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classic;startFill=1;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-222" target="iv0AfEV3e4Oj9upSNYWM-211">
