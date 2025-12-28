@@ -467,6 +467,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-190" value="&lt;b&gt;展示商品溯源信息&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="1350" y="3050" width="120" height="60" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-193" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.064;entryY=0.779;entryDx=0;entryDy=0;entryPerimeter=0;startArrow=classicThin;startFill=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-187" target="iv0AfEV3e4Oj9upSNYWM-167">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
