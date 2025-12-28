@@ -617,7 +617,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-268" value="关联存储溯源码、库存码、商品码" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-267">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-269" value="验证用户信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-267">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-269" value="存储大豆物流相关信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-267">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-270" value="更新用户信息" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-267">
