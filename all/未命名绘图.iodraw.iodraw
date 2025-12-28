@@ -1123,7 +1123,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-515" value="大豆上架信息（时间、数量等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-514">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-515" value="大豆上架信息（价格、时间、数量等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-514">
           <mxGeometry x="0.0789" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1147,7 +1147,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-521" value="发货回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-520">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-521" value="商品上架回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-520">
           <mxGeometry x="0.3938" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
