@@ -1082,7 +1082,7 @@
             <Array as="points" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-508" value="建档回执、溯源码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-507">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-508" value="入库回执、库存码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-507">
           <mxGeometry x="-0.2413" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
