@@ -1114,16 +1114,16 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-514" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.324;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-516">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-514" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.023;entryY=0.324;entryDx=0;entryDy=0;exitX=0.75;exitY=1;exitDx=0;exitDy=0;startArrow=none;startFill=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-516" target="iv0AfEV3e4Oj9upSNYWM-524">
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="11042.5" y="3093.9999999999995" as="sourcePoint" />
-            <mxPoint x="11171.84" y="3151.9199999999996" as="targetPoint" />
+            <mxPoint x="11189.999999999738" y="3223" as="targetPoint" />
             <Array as="points">
               <mxPoint x="11060" y="3196" />
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-515" value="发货信息（数量、时间等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-514">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-515" value="大豆上架信息（时间、数量等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-514">
           <mxGeometry x="0.0789" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1142,10 +1142,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-519" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆商品入库&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="11160" y="2920" width="80" height="80" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-520" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" target="iv0AfEV3e4Oj9upSNYWM-516">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-520" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-524" target="iv0AfEV3e4Oj9upSNYWM-516">
           <mxGeometry relative="1" as="geometry">
             <Array as="points" />
-            <mxPoint x="11171.909387668487" y="3153.7891338458785" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-521" value="发货回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-520">
@@ -1153,16 +1152,8 @@
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-522" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="11249.999976370504" y="3165.956521739131" as="sourcePoint" />
-            <mxPoint x="11380" y="3166" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-523" value="大豆物流信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-522">
-          <mxGeometry x="-0.2074" y="-2" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-524" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;大豆商品发送&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="11170" y="3126" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-525" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-527" target="iv0AfEV3e4Oj9upSNYWM-519">
           <mxGeometry relative="1" as="geometry">
@@ -1187,20 +1178,6 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-529" value="入库回执、商品码" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-528">
           <mxGeometry x="-0.2413" y="1" relative="1" as="geometry">
-            <mxPoint as="offset" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-530" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0;exitY=0.75;exitDx=0;exitDy=0;entryX=1;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1">
-          <mxGeometry relative="1" as="geometry">
-            <Array as="points">
-              <mxPoint x="11320" y="3206" />
-            </Array>
-            <mxPoint x="11380" y="3181" as="sourcePoint" />
-            <mxPoint x="11238.284271246714" y="3194.2842712467127" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-531" value="物流信息回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-530">
-          <mxGeometry x="-0.0554" y="1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
