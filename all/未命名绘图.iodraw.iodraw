@@ -797,7 +797,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-358" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-357">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-358" value="更新、删除请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-357">
           <mxGeometry x="0.3767" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
