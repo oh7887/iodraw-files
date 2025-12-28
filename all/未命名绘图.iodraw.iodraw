@@ -1682,11 +1682,8 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-763" value="产地" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9990" y="450" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-764" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-764" value="厂商" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9980" y="520" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-765" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="9960" y="590" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-766" value="用户名" style="ellipse;whiteSpace=wrap;html=1;" vertex="1" parent="1">
           <mxGeometry x="9870" y="620" width="90" height="50" as="geometry" />
@@ -1697,8 +1694,10 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-771" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.028;entryY=0.667;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758" target="iv0AfEV3e4Oj9upSNYWM-763">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-773" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758" target="iv0AfEV3e4Oj9upSNYWM-765">
-          <mxGeometry relative="1" as="geometry" />
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-773" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.007;entryY=0.312;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-758">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="9959.37" y="605.5999999999999" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
