@@ -758,7 +758,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-333" value="用户角色分配、删除、添加" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-332">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-333" value="用户角色分配" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-332">
           <mxGeometry x="0.3507" y="-2" relative="1" as="geometry">
             <mxPoint x="-39" as="offset" />
           </mxGeometry>
