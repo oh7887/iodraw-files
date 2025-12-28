@@ -919,7 +919,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-442" value="发货信息" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-441">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-442" value="发货信息（数量、时间等）" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-441">
           <mxGeometry x="0.0789" y="-3" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
