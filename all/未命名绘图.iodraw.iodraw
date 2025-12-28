@@ -1485,7 +1485,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-705" value="文件预览请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-704">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-705" value="公告更新请求" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-704">
           <mxGeometry x="-0.0206" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -1512,7 +1512,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-712" value="文件上传回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-711">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-712" value="公告上传回执" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-711">
           <mxGeometry x="-0.239" y="2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
