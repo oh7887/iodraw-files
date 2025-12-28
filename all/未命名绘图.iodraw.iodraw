@@ -924,8 +924,13 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-450" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-405" target="iv0AfEV3e4Oj9upSNYWM-422">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="10930" y="1800" />
+              <mxPoint x="10920" y="1800" />
             </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-451" value="大豆建档" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-450">
+          <mxGeometry x="-0.232" y="1" relative="1" as="geometry">
+            <mxPoint as="offset" />
           </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-405" value="&lt;b&gt;业务用户（农户、仓储、分销商、消费者）&lt;/b&gt;" style="shape=ext;double=1;rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
