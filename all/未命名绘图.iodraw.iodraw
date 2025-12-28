@@ -128,10 +128,10 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-34" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;库存管理模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="1130" y="1135" width="170" height="90" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=3;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-35" target="iv0AfEV3e4Oj9upSNYWM-62">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-65" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-35" target="iv0AfEV3e4Oj9upSNYWM-62">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=3;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-35" target="iv0AfEV3e4Oj9upSNYWM-64">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-66" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=0;entryDx=0;entryDy=0;fontSize=11;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-35" target="iv0AfEV3e4Oj9upSNYWM-64">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-35" value="&lt;div style=&quot;&quot;&gt;&lt;font size=&quot;1&quot; face=&quot;宋体&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;商品管理模块&lt;/b&gt;&lt;/font&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=center;strokeWidth=3;" vertex="1" parent="1">
