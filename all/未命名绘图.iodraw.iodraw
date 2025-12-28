@@ -1705,13 +1705,22 @@
           <mxGeometry x="9820" y="630" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-782" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10030" y="760" width="90" height="50" as="geometry" />
+          <mxGeometry x="9960" y="710" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-783" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9970" y="950" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-784" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="10010" y="550" width="90" height="50" as="geometry" />
+          <mxGeometry x="9760" y="900" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-785" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="9630" y="840" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-786" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="10060" y="810" width="90" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-787" value="厂商" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+          <mxGeometry x="9860" y="950" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
