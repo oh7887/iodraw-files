@@ -565,11 +565,6 @@
             <mxRectangle x="3590" y="2570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="iv0AfEV3e4Oj9upSNYWM-247" source="iv0AfEV3e4Oj9upSNYWM-248">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="230" y="45" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-248" value="注册" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-247">
           <mxGeometry y="30" width="140" height="30" as="geometry" />
         </mxCell>
@@ -577,7 +572,7 @@
           <mxGeometry y="60" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-253" value="用户" style="swimlane;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=30;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=1;marginBottom=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="3890" y="2560" width="140" height="90" as="geometry">
+          <mxGeometry x="3850" y="2560" width="140" height="90" as="geometry">
             <mxRectangle x="3590" y="2570" width="60" height="30" as="alternateBounds" />
           </mxGeometry>
         </mxCell>
@@ -591,6 +586,11 @@
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-256" value="登录" style="text;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;spacingLeft=4;spacingRight=4;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;" vertex="1" parent="iv0AfEV3e4Oj9upSNYWM-253">
           <mxGeometry y="60" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-252" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=-0.009;entryY=0.867;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-248" target="iv0AfEV3e4Oj9upSNYWM-255">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="3820" y="2615" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
