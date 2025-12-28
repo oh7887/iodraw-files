@@ -1624,22 +1624,22 @@
           <mxGeometry x="9380" y="490" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-741" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9310" y="390" width="90" height="50" as="geometry" />
+          <mxGeometry x="9390" y="320" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-742" value="用户名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="9480" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-743" value="别名" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9260" y="450" width="90" height="50" as="geometry" />
+          <mxGeometry x="9290" y="380" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-744" value="地址" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9270" y="535" width="90" height="50" as="geometry" />
+          <mxGeometry x="9270" y="550" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-745" value="邮箱" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9350" y="580" width="90" height="50" as="geometry" />
+          <mxGeometry x="9390" y="580" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-746" value="电话" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9465" y="580" width="90" height="50" as="geometry" />
+          <mxGeometry x="9510" y="580" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-748" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.589;entryY=0.067;entryDx=0;entryDy=0;entryPerimeter=0;endArrow=none;endFill=0;fontSize=16;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-738" target="iv0AfEV3e4Oj9upSNYWM-745">
           <mxGeometry relative="1" as="geometry" />
