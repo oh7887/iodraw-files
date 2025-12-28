@@ -1524,7 +1524,7 @@
             </Array>
           </mxGeometry>
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-714" value="文件数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-713">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-714" value="公告数据" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-713">
           <mxGeometry x="-0.0465" y="-1" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
