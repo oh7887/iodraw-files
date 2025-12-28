@@ -262,7 +262,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-101" value="&lt;b&gt;用户注册&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-440" y="1960" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="1860" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-106" value="用户登录" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-440" y="2060" width="120" height="60" as="geometry" />
@@ -273,7 +273,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-108" value="溯源码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-440" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-109" value="溯源码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-109" value="农产品发货" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-440" y="2338" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
