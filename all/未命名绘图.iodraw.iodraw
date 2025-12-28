@@ -1832,13 +1832,7 @@
           <mxGeometry x="8639" y="455" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-832" value="创建者" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8500" y="570" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-834" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8700" y="670" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-835" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8890" y="640" width="90" height="50" as="geometry" />
+          <mxGeometry x="8910" y="630" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
