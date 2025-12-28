@@ -1828,14 +1828,11 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-830" value="标题" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="8800" y="380" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-831" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-831" value="内容" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="8639" y="455" width="90" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-832" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-832" value="创建者" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="8500" y="570" width="90" height="50" as="geometry" />
-        </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-833" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="8549" y="670" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-834" value="密码" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
           <mxGeometry x="8700" y="670" width="90" height="50" as="geometry" />
