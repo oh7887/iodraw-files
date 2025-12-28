@@ -353,7 +353,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-143" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-780" y="2535" width="120" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-144" value="大豆农产品收货" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-144" value="库存码生成" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="-270" y="2550" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
