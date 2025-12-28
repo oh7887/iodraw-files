@@ -784,7 +784,7 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-337" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-328" target="iv0AfEV3e4Oj9upSNYWM-336">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="iv0AfEV3e4Oj9upSNYWM-338" value="Text" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-337">
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-338" value="角色更新状态" style="edgeLabel;html=1;align=center;verticalAlign=middle;resizable=0;points=[];" vertex="1" connectable="0" parent="iv0AfEV3e4Oj9upSNYWM-337">
           <mxGeometry x="0.1365" y="-2" relative="1" as="geometry">
             <mxPoint as="offset" />
           </mxGeometry>
@@ -802,7 +802,7 @@
           <mxGeometry x="10950" y="1390" width="80" height="80" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-336" value="用户数据库" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11150" y="1065" width="120" height="60" as="geometry" />
+          <mxGeometry x="11165" y="1125.5" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
