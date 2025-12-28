@@ -87,7 +87,7 @@
           <mxGeometry x="-920" y="950" width="560" height="460" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-32" value="&lt;div style=&quot;font-size: medium;&quot;&gt;&lt;span style=&quot;font-family: 宋体; font-size: 12pt;&quot;&gt;&lt;b&gt;&lt;font face=&quot;宋体&quot;&gt;基于&lt;/font&gt;&lt;font face=&quot;Times New Roman&quot;&gt;FISCO BCOS&lt;/font&gt;&lt;font face=&quot;宋体&quot;&gt;（飞梭链）的大豆溯源系统&lt;/font&gt;&lt;/b&gt;&lt;/span&gt;&lt;/div&gt;" style="rounded=0;whiteSpace=wrap;html=1;align=left;strokeWidth=3;" vertex="1" parent="1">
-          <mxGeometry x="1130" y="1060" width="170" height="90" as="geometry" />
+          <mxGeometry x="1130" y="960" width="170" height="90" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
