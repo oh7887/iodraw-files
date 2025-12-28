@@ -803,6 +803,9 @@
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-329" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户信息更新与删除&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10950" y="1169" width="80" height="80" as="geometry" />
         </mxCell>
+        <mxCell id="iv0AfEV3e4Oj9upSNYWM-342" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=1;entryDx=0;entryDy=0;" edge="1" parent="1" source="iv0AfEV3e4Oj9upSNYWM-330" target="iv0AfEV3e4Oj9upSNYWM-336">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-330" value="&lt;span style=&quot;font-size: 8px;&quot;&gt;用户注册&lt;/span&gt;" style="ellipse;whiteSpace=wrap;html=1;aspect=fixed;fontStyle=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="10950" y="1281" width="80" height="80" as="geometry" />
         </mxCell>
@@ -813,7 +816,7 @@
           <mxGeometry x="11160" y="1130" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-341" value="令牌与会话存储" style="shape=partialRectangle;whiteSpace=wrap;html=1;left=0;right=0;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="11165" y="1350" width="120" height="60" as="geometry" />
+          <mxGeometry x="11160" y="1330" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
