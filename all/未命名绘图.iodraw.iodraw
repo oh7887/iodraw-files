@@ -1763,19 +1763,19 @@
           <mxGeometry x="9320" y="780" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-804" value="收货日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9190" y="770" width="90" height="50" as="geometry" />
+          <mxGeometry x="9190" y="760" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-805" value="收货数量" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9180" y="860" width="90" height="50" as="geometry" />
+          <mxGeometry x="9190" y="840" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-806" value="商品发货日期" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9300" y="890" width="90" height="50" as="geometry" />
+          <mxGeometry x="9290" y="900" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-807" value="大豆产品名称" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9430" y="900" width="90" height="50" as="geometry" />
+          <mxGeometry x="9400" y="900" width="90" height="50" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-808" value="产地" style="ellipse;whiteSpace=wrap;html=1;fontSize=16;" vertex="1" parent="1">
-          <mxGeometry x="9270" y="700" width="90" height="50" as="geometry" />
+          <mxGeometry x="9310" y="700" width="90" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
