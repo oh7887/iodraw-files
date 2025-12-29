@@ -2675,6 +2675,15 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-182" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Controller&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9050" y="2536" width="140" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-183" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;exitX=-0.006;exitY=0.882;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="100" height="100" relative="1" as="geometry">
+            <mxPoint x="9465" y="2520" as="sourcePoint" />
+            <mxPoint x="9930" y="2520" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-184" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Controller&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="9709" y="2536" width="140" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
