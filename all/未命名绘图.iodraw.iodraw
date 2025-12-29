@@ -2447,7 +2447,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-69" value="" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="4463" y="-570" width="171" height="140" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-74" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=3;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-74" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#b0e3e6;strokeColor=#0e8088;gradientDirection=north;strokeWidth=3;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
           <mxGeometry x="5629" y="-976" width="169" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-75" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/BlockStorage.svg;strokeWidth=3;" vertex="1" parent="1">
@@ -2470,7 +2470,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-80" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58536;gradientColor=none;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="5110" y="-585" width="230" height="170" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-82" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=3;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-82" value="" style="verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#b1ddf0;strokeColor=#10739e;gradientDirection=north;strokeWidth=3;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
           <mxGeometry x="5490" y="-675" width="169" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-84" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.5;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="Qgm4Pjose8lC2aYwKoGe-76" target="Qgm4Pjose8lC2aYwKoGe-80">
