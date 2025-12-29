@@ -2348,10 +2348,10 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-14" value="&lt;b&gt;业务层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5332.5" y="1225" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-23" value="用户权限管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-23" value="用户权限管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="6130" y="1269.5" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-25" value="用户注册、登录" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-25" value="用户注册、登录" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
           <mxGeometry x="6130" y="1169" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-26" value="大豆产品建档" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
@@ -2414,16 +2414,16 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-50" value="区块链接口" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="5880" y="980" width="360" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-52" value="Fisco-Bcos区块链网络&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-52" value="Fisco-Bcos区块链网络&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="5490" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-53" value="区块链智能合约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-53" value="区块链智能合约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="5680" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-55" value="Javaspring boot" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-55" value="Javaspring boot" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="5880" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-56" value="Maven" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-56" value="Maven" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
           <mxGeometry x="6070" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-57" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;fillColor=#f5f5f5;fontColor=#333333;strokeColor=#666666;" vertex="1" parent="1">
