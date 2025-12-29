@@ -2420,11 +2420,8 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-52" value="Fisco-Bcos区块链网络&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5490" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-53" value="大豆产品溯源码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="5640" y="1470" width="120" height="71" as="geometry" />
-        </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-54" value="大豆产品溯源码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="5805" y="1450" width="120" height="71" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-53" value="区块链智能合约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5650" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-55" value="大豆产品溯源码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="6012.5" y="1465" width="120" height="71" as="geometry" />
