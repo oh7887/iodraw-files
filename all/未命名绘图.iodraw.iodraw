@@ -2441,8 +2441,11 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="6020" y="1631" width="77" height="76" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5636" y="1701" width="60" height="30" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-67" value="&lt;b&gt;区块链存储&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5600.5" y="1704" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-68" value="&lt;b&gt;区块链存储&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5610.5" y="1714" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
