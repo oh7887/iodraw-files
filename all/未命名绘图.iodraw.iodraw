@@ -2523,7 +2523,13 @@
           </mxCell>
         </UserObject>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-102" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="7884.37" y="800" width="120" height="60" as="geometry" />
+          <mxGeometry x="8220" y="2278" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-103" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="8220" y="2380" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-104" value="商品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="8204.369999999999" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
