@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="5320" dy="4387" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="5320" dy="3218" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2442,7 +2442,7 @@
           <mxGeometry x="8381.869999999999" y="1652.5" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-69" value="" style="image;html=1;image=img/lib/clip_art/computers/Network_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="4370" y="-565" width="171" height="140" as="geometry" />
+          <mxGeometry x="4450" y="-577.5" width="171" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-74" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
           <mxGeometry x="5570" y="-850" width="169" height="190" as="geometry" />
@@ -2451,7 +2451,7 @@
           <mxGeometry x="6270" y="-565" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-76" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="5080" y="-1290" width="160" height="185" as="geometry" />
+          <mxGeometry x="4720" y="-600" width="160" height="185" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="6315.499999999999" y="-820" width="77" height="76" as="geometry" />
@@ -2460,7 +2460,7 @@
           <mxGeometry x="5560" y="-430" width="169" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-80" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.internet_gateway;fillColor=#F58536;gradientColor=none;" vertex="1" parent="1">
-          <mxGeometry x="4810" y="-580" width="69" height="72" as="geometry" />
+          <mxGeometry x="5110" y="-585" width="230" height="170" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
