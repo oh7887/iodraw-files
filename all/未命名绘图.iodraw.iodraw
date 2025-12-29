@@ -2599,10 +2599,10 @@
           <mxGeometry x="8270" y="2526" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-159" value="用户权限管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="9469.999999999998" y="2300.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="9129.999999999998" y="2400" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-160" value="用户注册、登录" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="9469.999999999998" y="2200" width="120" height="71" as="geometry" />
+          <mxGeometry x="9274.999999999998" y="2204" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-161" value="大豆产品建档" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
           <mxGeometry x="8830" y="2204" width="120" height="71" as="geometry" />
@@ -2617,7 +2617,7 @@
           <mxGeometry x="8977" y="2204" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-165" value="大豆商品发货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="8984.999999999998" y="2390" width="120" height="71" as="geometry" />
+          <mxGeometry x="8976.249999999998" y="2390" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-166" value="大豆商品收货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
           <mxGeometry x="8976.249999999998" y="2304.5" width="120" height="71" as="geometry" />
