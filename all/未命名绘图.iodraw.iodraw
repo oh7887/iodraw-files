@@ -2363,11 +2363,11 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-16" value="用户注册" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="6130" y="1130" width="120" height="35" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-17" value="商品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-17" value="商品发货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5812.5" y="1145" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-18" value="用户登录" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="6120" y="1185" width="120" height="35" as="geometry" />
+          <mxGeometry x="6130" y="1185" width="120" height="35" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
