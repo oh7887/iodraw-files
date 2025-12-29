@@ -2599,34 +2599,34 @@
           <mxGeometry x="8270" y="2526" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-159" value="用户权限管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="9479.999999999998" y="1854.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="9469.999999999998" y="2300.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-160" value="用户注册、登录" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffcc99;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="9479.999999999998" y="1754" width="120" height="71" as="geometry" />
+          <mxGeometry x="9469.999999999998" y="2200" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-161" value="大豆产品建档" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="8840" y="1758" width="120" height="71" as="geometry" />
+          <mxGeometry x="8830" y="2204" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-162" value="大豆产品溯源码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
-          <mxGeometry x="8840" y="1854.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="8830" y="2300.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-163" value="大豆库存码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="9000" y="1758.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="8830" y="2393" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-164" value="大豆库存入库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="9000" y="1854.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="8830" y="2489" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-165" value="大豆商品发货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="9162.499999999998" y="1758.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="9152.499999999998" y="2204.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-166" value="大豆商品收货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="9162.499999999998" y="1854.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="9152.499999999998" y="2300.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-167" value="大豆商品溯源" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#cce5ff;strokeColor=#36393d;" vertex="1" parent="1">
-          <mxGeometry x="9319.999999999998" y="1854.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="9309.999999999998" y="2300.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-168" value="大豆商品码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
-          <mxGeometry x="9319.999999999998" y="1754" width="120" height="71" as="geometry" />
+          <mxGeometry x="9309.999999999998" y="2200" width="120" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
