@@ -2445,7 +2445,7 @@
           <mxGeometry x="4850" y="-570" width="171" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-74" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
-          <mxGeometry x="5820" y="-900" width="169" height="190" as="geometry" />
+          <mxGeometry x="5560" y="-850" width="169" height="190" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-75" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/BlockStorage.svg;" vertex="1" parent="1">
           <mxGeometry x="6270" y="-565" width="168" height="168" as="geometry" />
@@ -2457,7 +2457,7 @@
           <mxGeometry x="6315.499999999999" y="-820" width="77" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-79" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
-          <mxGeometry x="5830" y="-890" width="169" height="190" as="geometry" />
+          <mxGeometry x="5560" y="-430" width="169" height="190" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
