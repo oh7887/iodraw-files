@@ -2451,7 +2451,7 @@
           <mxGeometry x="6270" y="-565" width="168" height="168" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-76" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="5160" y="-592.5" width="160" height="185" as="geometry" />
+          <mxGeometry x="5110" y="-575" width="160" height="185" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-78" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="6315.499999999999" y="-820" width="77" height="76" as="geometry" />
