@@ -2355,7 +2355,7 @@
           <mxGeometry x="6130" y="980" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-13" value="用户层" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="5835" y="950" width="115" height="30" as="geometry" />
+          <mxGeometry x="5810" y="950" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
