@@ -2611,7 +2611,7 @@
           <mxGeometry x="8830" y="2300.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-163" value="大豆库存码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
-          <mxGeometry x="8830" y="2390" width="120" height="71" as="geometry" />
+          <mxGeometry x="8977" y="2400" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-164" value="大豆库存入库" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
           <mxGeometry x="8977" y="2204" width="120" height="71" as="geometry" />
