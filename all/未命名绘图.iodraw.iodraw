@@ -10,7 +10,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-48" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="5248.13" y="1191.25" width="278.75" height="122.5" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-44" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-44" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;fillColor=#e1d5e7;strokeColor=#9673a6;" vertex="1" parent="1">
           <mxGeometry x="5332.5" y="807.5" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="iv0AfEV3e4Oj9upSNYWM-1064" value="" style="rounded=0;whiteSpace=wrap;html=1;fontStyle=1" parent="1" vertex="1">
@@ -2342,7 +2342,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-5" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5450" y="1115" width="830" height="275" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-7" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5450" y="1436" width="830" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-14" value="&lt;b&gt;业务层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
@@ -2381,7 +2381,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-35" value="&lt;b&gt;核心层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5330" y="1480" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5452.5" y="805" width="830" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-37" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
@@ -2402,7 +2402,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-42" value="&lt;b&gt;用户层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5340" y="850" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-46" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-46" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="5330" y="952.5" width="120" height="115" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-47" value="&lt;b&gt;接口层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
@@ -2429,7 +2429,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-57" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;strokeWidth=3;" vertex="1" parent="1">
           <mxGeometry x="5330" y="1612.5" width="120" height="115" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-58" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
           <mxGeometry x="5450" y="1610" width="830" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-59" value="&lt;b&gt;数据层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
