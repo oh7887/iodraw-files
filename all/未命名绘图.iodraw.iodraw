@@ -2655,16 +2655,16 @@
           <mxGeometry x="9705" y="2115" width="140" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-177" value="Fisco-Bcos区块链网络&amp;nbsp;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="9490" y="2219" width="120" height="71" as="geometry" />
+          <mxGeometry x="9530" y="2219" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-178" value="区块链智能合约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="9680" y="2219" width="120" height="71" as="geometry" />
+          <mxGeometry x="9720" y="2219" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-179" value="Javaspring boot" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="9610" y="2329" width="120" height="71" as="geometry" />
+          <mxGeometry x="9530" y="2329" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-180" value="Maven" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b0e3e6;strokeColor=#0e8088;" vertex="1" parent="1">
-          <mxGeometry x="9800" y="2329" width="120" height="71" as="geometry" />
+          <mxGeometry x="9720" y="2329" width="120" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
