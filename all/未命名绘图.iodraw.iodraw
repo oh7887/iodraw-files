@@ -2522,11 +2522,8 @@
             <mxGeometry x="7420" y="2180" width="560" height="200" as="geometry" />
           </mxCell>
         </UserObject>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-101" value="" style="endArrow=none;html=1;rounded=0;" edge="1" parent="1">
-          <mxGeometry width="50" height="50" relative="1" as="geometry">
-            <mxPoint x="8340" y="1950" as="sourcePoint" />
-            <mxPoint x="8390" y="1900" as="targetPoint" />
-          </mxGeometry>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-102" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
+          <mxGeometry x="7884.37" y="800" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
