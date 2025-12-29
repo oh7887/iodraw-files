@@ -2505,8 +2505,11 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-95" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;区块链存储&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="5997" y="-205" width="294" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-96" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;区块链网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="5610" y="-170" width="294" height="60" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-96" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Network&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5082" y="-405" width="294" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-97" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;Network&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5092" y="-395" width="294" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
