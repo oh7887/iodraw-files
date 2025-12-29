@@ -2408,6 +2408,9 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-47" value="&lt;b&gt;接口层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5335" y="990" width="115" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-49" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5660" y="980" width="120" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
