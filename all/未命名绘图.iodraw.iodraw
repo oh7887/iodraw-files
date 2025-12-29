@@ -2411,8 +2411,8 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-42" value="&lt;b&gt;用户层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5812.5" y="805" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-44" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="5320" y="810" width="80" height="80" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-44" value="" style="shape=offPageConnector;whiteSpace=wrap;html=1;rotation=90;" vertex="1" parent="1">
+          <mxGeometry x="5360" y="795" width="80" height="100" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
