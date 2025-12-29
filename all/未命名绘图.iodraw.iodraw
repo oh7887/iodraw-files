@@ -2511,8 +2511,8 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-97" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;交换机&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4723" y="-425" width="294" height="60" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-98" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;交换机&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="4733" y="-415" width="294" height="60" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-98" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;用户pc&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4420" y="-415" width="294" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
