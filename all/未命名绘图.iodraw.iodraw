@@ -2421,7 +2421,7 @@
           <mxGeometry x="5490" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-53" value="区块链智能合约" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="5692.5" y="1459.5" width="120" height="71" as="geometry" />
+          <mxGeometry x="5680" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-55" value="大豆产品溯源码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5880" y="1459.5" width="120" height="71" as="geometry" />
