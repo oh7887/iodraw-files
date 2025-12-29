@@ -2381,7 +2381,7 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-35" value="&lt;b&gt;核心层&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5330" y="1480" width="115" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#dae8fc;strokeColor=#6c8ebf;" vertex="1" parent="1">
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-36" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#ffe6cc;strokeColor=#d79b00;" vertex="1" parent="1">
           <mxGeometry x="5452.5" y="805" width="830" height="120" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-37" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
