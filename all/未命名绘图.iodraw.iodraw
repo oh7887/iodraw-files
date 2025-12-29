@@ -2361,7 +2361,10 @@
           <mxGeometry x="5812.5" y="1115" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-15" value="大豆农产品管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
-          <mxGeometry x="5500" y="990" width="120" height="60" as="geometry" />
+          <mxGeometry x="5490" y="1150" width="120" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-16" value="库存管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="5660" y="1145" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
