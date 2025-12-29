@@ -2436,10 +2436,13 @@
           <mxGeometry x="5330" y="1654" width="115" height="30" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-64" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/BlockStorage.svg;" vertex="1" parent="1">
-          <mxGeometry x="5612.5" y="1624" width="76" height="76" as="geometry" />
+          <mxGeometry x="5620" y="1631" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-65" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="5873" y="1624" width="77" height="76" as="geometry" />
+          <mxGeometry x="6020" y="1631" width="77" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-66" value="Text" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5636" y="1701" width="60" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
