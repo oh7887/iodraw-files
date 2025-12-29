@@ -2532,10 +2532,10 @@
           <mxGeometry x="8211.869999999999" y="2190" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-106" value="溯源管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="8394.369999999999" y="2240" width="120" height="60" as="geometry" />
+          <mxGeometry x="8394.369999999999" y="2250" width="120" height="60" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-107" value="用户管理" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#fad7ac;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="8391.869999999999" y="2338" width="120" height="60" as="geometry" />
+          <mxGeometry x="8394.369999999999" y="2338" width="120" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
