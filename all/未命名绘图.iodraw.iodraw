@@ -2499,6 +2499,12 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-93" value="" style="sketch=0;outlineConnect=0;fontColor=#232F3E;gradientColor=none;fillColor=#7AA116;strokeColor=none;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.elastic_block_store_amazon_data_lifecycle_manager;" vertex="1" parent="1">
           <mxGeometry x="5635.92" y="-428" width="222.15" height="228" as="geometry" />
         </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-94" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;MySQL数据库&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="5904.5" y="-786" width="211" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-95" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;区块链网络&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="6010" y="-190" width="294" height="60" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
