@@ -2445,7 +2445,7 @@
           <mxGeometry x="4850" y="-570" width="171" height="140" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-70" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=api" vertex="1" parent="1">
-          <mxGeometry x="5300" y="-1060" width="140.63" height="135" as="geometry" />
+          <mxGeometry x="5400" y="-1160" width="140.63" height="135" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-74" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.tape_storage;" vertex="1" parent="1">
           <mxGeometry x="5789" y="-710" width="105" height="105" as="geometry" />
@@ -2454,7 +2454,7 @@
           <mxGeometry x="5775" y="-396" width="76" height="76" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-76" value="" style="image;html=1;image=img/lib/clip_art/networking/Router_Icon_128x128.png" vertex="1" parent="1">
-          <mxGeometry x="5190" y="-600" width="160" height="185" as="geometry" />
+          <mxGeometry x="5550" y="-970" width="160" height="185" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
