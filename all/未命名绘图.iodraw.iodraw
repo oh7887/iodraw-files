@@ -8,7 +8,7 @@
           <mxGeometry x="8490" y="2070" width="320" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-120" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="8810" y="2070" width="330" height="510" as="geometry" />
+          <mxGeometry x="8810" y="2070" width="820" height="510" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-108" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8160" y="2070" width="330" height="510" as="geometry" />
@@ -2604,18 +2604,6 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-129" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;业务层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8920" y="2110" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-130" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
-          <mxGeometry width="100" height="100" relative="1" as="geometry">
-            <mxPoint x="9140" y="2169" as="sourcePoint" />
-            <mxPoint x="9450" y="2169" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-131" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;接口层&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="9230" y="2110" width="140" height="30" as="geometry" />
-        </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-133" value="&lt;b&gt;区块链接口&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#f7e8d2;strokeColor=#b46504;" vertex="1" parent="1">
-          <mxGeometry x="9249.999999999998" y="2364" width="120" height="60" as="geometry" />
-        </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-135" value="" style="endArrow=classic;startArrow=classic;html=1;rounded=0;strokeWidth=3;" edge="1" parent="1">
           <mxGeometry width="100" height="100" relative="1" as="geometry">
             <mxPoint x="8180" y="2519" as="sourcePoint" />
@@ -2624,6 +2612,15 @@
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-136" value="&lt;font style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;View&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="8270" y="2526" width="140" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-146" value="大豆产品建档" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#b1ddf0;strokeColor=#10739e;" vertex="1" parent="1">
+          <mxGeometry x="7889.37" y="1128" width="120" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-147" value="大豆库存码生成" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#d0cee2;strokeColor=#56517e;" vertex="1" parent="1">
+          <mxGeometry x="8049.37" y="1128.5" width="120" height="71" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-148" value="大豆商品发货" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;fillColor=#bac8d3;strokeColor=#23445d;" vertex="1" parent="1">
+          <mxGeometry x="8211.869999999999" y="1128.5" width="120" height="71" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
