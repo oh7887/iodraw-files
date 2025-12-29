@@ -4,11 +4,14 @@
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="Qgm4Pjose8lC2aYwKoGe-173" target="Qgm4Pjose8lC2aYwKoGe-185">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-173" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="9460" y="2065" width="460" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-185" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
+          <mxGeometry x="9920" y="2065" width="460" height="510" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-186" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0;exitDx=0;exitDy=0;entryX=0;entryY=1;entryDx=0;entryDy=0;strokeWidth=3;endArrow=none;endFill=0;" edge="1" parent="1" source="Qgm4Pjose8lC2aYwKoGe-173" target="Qgm4Pjose8lC2aYwKoGe-185">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-109" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
           <mxGeometry x="8490" y="2070" width="320" height="510" as="geometry" />
@@ -2687,8 +2690,17 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-184" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Model&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="9625" y="2536" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="Qgm4Pjose8lC2aYwKoGe-185" value="" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" vertex="1" parent="1">
-          <mxGeometry x="9920" y="2065" width="460" height="510" as="geometry" />
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-187" value="" style="image;aspect=fixed;perimeter=ellipsePerimeter;html=1;align=center;shadow=0;dashed=0;fontColor=#4277BB;labelBackgroundColor=default;fontSize=12;spacingTop=3;image=img/lib/ibm/vpc/BlockStorage.svg;" vertex="1" parent="1">
+          <mxGeometry x="8066.37" y="1592" width="76" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-188" value="" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.database;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="8410.869999999999" y="1585" width="77" height="76" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-189" value="&lt;b&gt;区块链存储&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="8046.87" y="1665" width="115" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-190" value="&lt;b&gt;Mysql&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="8391.869999999999" y="1662.5" width="115" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
