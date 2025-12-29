@@ -2426,6 +2426,9 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-55" value="Javaspring boot" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
           <mxGeometry x="5880" y="1459.5" width="120" height="71" as="geometry" />
         </mxCell>
+        <mxCell id="Qgm4Pjose8lC2aYwKoGe-56" value="Javaspring boot" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=3;fontSize=20;" vertex="1" parent="1">
+          <mxGeometry x="6083" y="1459.5" width="120" height="71" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
