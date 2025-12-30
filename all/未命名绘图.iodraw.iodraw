@@ -5,7 +5,7 @@
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
         <mxCell id="dd46_dHd7yLuclahUGRx-8" value="" style="rounded=0;whiteSpace=wrap;html=1;dashed=1;dashPattern=8 8;" vertex="1" parent="1">
-          <mxGeometry x="14140" y="250" width="510" height="460" as="geometry" />
+          <mxGeometry x="14140" y="250" width="510" height="560" as="geometry" />
         </mxCell>
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-99" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
           <mxGeometry x="13880" y="-1715" width="4350" height="1360" as="geometry" />
@@ -2745,7 +2745,10 @@
           <mxGeometry x="14297.5" y="645" width="195" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dd46_dHd7yLuclahUGRx-15" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;span style=&quot;font-family: 黑体; font-size: 12pt;&quot;&gt;输入数据清洗与元数据编码&lt;/span&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="14530" y="274" width="210" height="30" as="geometry" />
+          <mxGeometry x="14140" y="250" width="210" height="30" as="geometry" />
+        </mxCell>
+        <mxCell id="dd46_dHd7yLuclahUGRx-16" value="&lt;b&gt;输入：卫星遥感影像&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=3;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="14300" y="284" width="210" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
