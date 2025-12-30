@@ -2777,10 +2777,10 @@
           <mxGeometry x="14740" y="852" width="245" height="66" as="geometry" />
         </mxCell>
         <mxCell id="dd46_dHd7yLuclahUGRx-26" value="&lt;div style=&quot;text-align: start;&quot;&gt;&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot; style=&quot;font-size: 12px;&quot;&gt;深度估计&lt;/font&gt;&lt;/b&gt;&lt;/div&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=3;fontSize=14;" vertex="1" parent="1">
-          <mxGeometry x="14790" y="755.5" width="195" height="55" as="geometry" />
+          <mxGeometry x="14765" y="760" width="195" height="55" as="geometry" />
         </mxCell>
         <mxCell id="dd46_dHd7yLuclahUGRx-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;输出：3D高斯集合&lt;/b&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=3;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="14790" y="620" width="245" height="66" as="geometry" />
+          <mxGeometry x="14790" y="644" width="245" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
