@@ -2797,6 +2797,9 @@
         <mxCell id="dd46_dHd7yLuclahUGRx-33" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;entryPerimeter=0;strokeWidth=3;" edge="1" parent="1" source="dd46_dHd7yLuclahUGRx-28" target="dd46_dHd7yLuclahUGRx-32">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
+        <mxCell id="dd46_dHd7yLuclahUGRx-35" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12pt;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;基于&lt;/font&gt;DiffusionSat&lt;font face=&quot;黑体&quot;&gt;的图像补全&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14952.5" y="515" width="230" height="30" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
