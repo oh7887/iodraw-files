@@ -2788,6 +2788,9 @@
         <mxCell id="dd46_dHd7yLuclahUGRx-28" value="&lt;span style=&quot;font-size: 16px;&quot;&gt;&lt;b&gt;输出：3D高斯集合&lt;/b&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=3;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="14740" y="650" width="245" height="66" as="geometry" />
         </mxCell>
+        <mxCell id="dd46_dHd7yLuclahUGRx-32" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;开始&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=3;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14772.5" y="557.5" width="180" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
