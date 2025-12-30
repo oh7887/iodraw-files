@@ -2708,8 +2708,8 @@
         <mxCell id="Qgm4Pjose8lC2aYwKoGe-192" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;数据层&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
           <mxGeometry x="6420" y="1269" width="140" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="dd46_dHd7yLuclahUGRx-2" value="&lt;b&gt;&lt;font face=&quot;MS Mincho&quot;&gt;开始&lt;/font&gt;&lt;/b&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
-          <mxGeometry x="14270" y="245" width="270" height="95" as="geometry" />
+        <mxCell id="dd46_dHd7yLuclahUGRx-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;MS Mincho&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;开始&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="14270" y="245" width="180" height="65" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
