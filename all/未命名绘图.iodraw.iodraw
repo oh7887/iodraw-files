@@ -2723,8 +2723,8 @@
         <mxCell id="dd46_dHd7yLuclahUGRx-6" value="&lt;b&gt;输入张量重整&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="14297.5" y="555" width="195" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dd46_dHd7yLuclahUGRx-7" value="&lt;b&gt;输入张量重整&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="14307.5" y="565" width="195" height="55" as="geometry" />
+        <mxCell id="dd46_dHd7yLuclahUGRx-7" value="&lt;b&gt;多模态数据&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="14297.5" y="645" width="195" height="55" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
