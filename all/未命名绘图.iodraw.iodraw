@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="1OPGIq439G_BBMkfzYZ7">
-    <mxGraphModel dx="3282" dy="3294" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="3398" dy="3362" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2766,7 +2766,7 @@
           <mxGeometry x="14420" y="540" width="60" height="30" as="geometry" />
         </mxCell>
         <mxCell id="dd46_dHd7yLuclahUGRx-22" value="&lt;div style=&quot;font-size: medium; text-align: start;&quot;&gt;&lt;b&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 12pt;&quot;&gt;&lt;font face=&quot;黑体&quot;&gt;基于&lt;/font&gt;DiffusionSat&lt;font face=&quot;黑体&quot;&gt;的图像补全&lt;/font&gt;&lt;/span&gt;&lt;/b&gt;&lt;/div&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="14420" y="540" width="230" height="30" as="geometry" />
+          <mxGeometry x="14140" y="735" width="230" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
