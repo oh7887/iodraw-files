@@ -2711,8 +2711,8 @@
         <mxCell id="dd46_dHd7yLuclahUGRx-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot; face=&quot;MS Mincho&quot;&gt;&lt;b style=&quot;font-size: 20px;&quot;&gt;开始&lt;/b&gt;&lt;/font&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
           <mxGeometry x="14300" y="177.5" width="180" height="55" as="geometry" />
         </mxCell>
-        <mxCell id="dd46_dHd7yLuclahUGRx-3" value="&lt;b&gt;输入：卫星影像&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
-          <mxGeometry x="14270" y="314" width="210" height="66" as="geometry" />
+        <mxCell id="dd46_dHd7yLuclahUGRx-3" value="&lt;b&gt;输入：卫星遥感影像&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+          <mxGeometry x="14280" y="289" width="210" height="66" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
