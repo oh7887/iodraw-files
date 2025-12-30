@@ -2717,6 +2717,9 @@
         <mxCell id="dd46_dHd7yLuclahUGRx-4" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;云层掩码提取&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="14297.5" y="375" width="195" height="55" as="geometry" />
         </mxCell>
+        <mxCell id="dd46_dHd7yLuclahUGRx-5" value="&lt;b style=&quot;&quot;&gt;&lt;font face=&quot;Helvetica&quot;&gt;云层掩码提取&lt;/font&gt;&lt;/b&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="14297.5" y="465" width="195" height="55" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
