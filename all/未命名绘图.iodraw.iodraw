@@ -289,9 +289,6 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-162" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Network Node&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1590" y="690" width="230" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-163" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Network Node&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1600" y="700" width="230" height="50" as="geometry" />
-        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
