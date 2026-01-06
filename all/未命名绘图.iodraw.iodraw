@@ -182,7 +182,16 @@
           <mxGeometry x="435" y="231.8" width="32.5" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-57" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
-          <mxGeometry x="300" y="123" width="68" height="48" as="geometry" />
+          <mxGeometry x="290" y="106.9" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-58" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="290" y="208" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-59" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="1030" y="106.89999999999998" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-60" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="1070" y="190" width="68" height="48" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
