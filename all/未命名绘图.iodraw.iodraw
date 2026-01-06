@@ -142,6 +142,9 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="765" y="170" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-109" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;dashed=1;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-36" target="VD5vu5qdHvzi85t2HJJb-35">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-36" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="595" y="170" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
