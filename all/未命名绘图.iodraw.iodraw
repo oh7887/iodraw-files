@@ -190,20 +190,8 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-71" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="1050" y="217.8" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-74" value="" style="swimlane;shape=rect;strokeColor=#EEEEEE;fillColor=#ffffff;fontColor=#000000;fontStyle=0;childLayout=stackLayout;horizontal=1;startSize=0;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;whiteSpace=wrap;html=1;shadow=1;" vertex="1" parent="1">
-          <mxGeometry x="620" y="200" width="170" height="168" as="geometry" />
-        </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-75" value="Refresh" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-74">
-          <mxGeometry width="170" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-76" value="Help &amp; feedback" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-74">
-          <mxGeometry y="42" width="170" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-77" value="Settings" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-74">
-          <mxGeometry y="84" width="170" height="42" as="geometry" />
-        </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-78" value="Sign out" style="text;strokeColor=none;align=left;verticalAlign=middle;spacingLeft=12;spacingRight=10;overflow=hidden;points=[[0,0.5],[1,0.5]];portConstraint=eastwest;rotatable=0;whiteSpace=wrap;html=1;shape=mxgraph.bootstrap.topButton;rSize=3;fillColor=none;fontSize=15;fontColor=inherit;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-74">
-          <mxGeometry y="126" width="170" height="42" as="geometry" />
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="873.1" y="390" width="32.5" height="50" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
