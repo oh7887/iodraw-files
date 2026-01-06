@@ -1114,8 +1114,8 @@
             <mxPoint x="600" y="30" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="OgPY1hJOFHEM9OomC_9g-285" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Crowdsource Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="632" y="220" width="225" height="30" as="geometry" />
+        <mxCell id="OgPY1hJOFHEM9OomC_9g-285" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="607.5" y="-300" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
