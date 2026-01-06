@@ -185,13 +185,16 @@
           <mxGeometry x="270" y="220" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-70" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
-          <mxGeometry x="1050" y="100" width="69" height="64" as="geometry" />
+          <mxGeometry x="1040" y="93" width="69" height="64" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-71" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
-          <mxGeometry x="1050" y="217.8" width="69" height="64" as="geometry" />
+          <mxGeometry x="1020" y="231.8" width="69" height="64" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="873.1" y="390" width="32.5" height="50" as="geometry" />
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-80" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="902.5" y="107" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-81" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="1140" y="156" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
