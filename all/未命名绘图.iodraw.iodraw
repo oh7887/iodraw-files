@@ -295,6 +295,11 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-164" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Requester&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1590" y="614.1" width="230" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-209" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=0;exitDx=0;exitDy=0;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-33">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="750" y="-310.0000000000002" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="597.5" y="-110" width="225" height="30" as="geometry" />
         </mxCell>
