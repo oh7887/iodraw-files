@@ -121,7 +121,10 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="612.5" y="40" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-42" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-36">
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-36">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-34" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
