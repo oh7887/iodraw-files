@@ -127,9 +127,6 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-110" value="" style="group" vertex="1" connectable="0" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="250" width="929" height="308" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-110">
-          <mxGeometry x="352" y="10" width="225" height="30" as="geometry" />
-        </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-110" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
@@ -294,6 +291,9 @@
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-164" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Requester&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="1590" y="614.1" width="230" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="1550" y="100" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
