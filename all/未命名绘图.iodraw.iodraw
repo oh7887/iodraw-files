@@ -191,7 +191,13 @@
           <mxGeometry x="1030" y="106.89999999999998" width="68" height="48" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-60" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
-          <mxGeometry x="1070" y="190" width="68" height="48" as="geometry" />
+          <mxGeometry x="1098" y="170" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-61" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/mixed_reality/Remote_Rendering.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="1030" y="255" width="68" height="48" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-62" value="" style="shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#4495D1;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;align=center;outlineConnect=0;shape=mxgraph.veeam.2d.remote_storage;" vertex="1" parent="1">
+          <mxGeometry x="670" y="60" width="46.4" height="46.4" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
