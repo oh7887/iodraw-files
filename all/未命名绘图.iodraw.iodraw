@@ -154,6 +154,12 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-41" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="540" y="201.8" width="32.5" height="50" as="geometry" />
         </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-46" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="878.1" y="210" width="32.5" height="50" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-47" value="" style="outlineConnect=0;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;shape=mxgraph.aws3.car;fillColor=#5294CF;gradientColor=none;" vertex="1" parent="1">
+          <mxGeometry x="442" y="210" width="79.5" height="79.5" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
