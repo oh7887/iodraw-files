@@ -181,8 +181,8 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-55" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="435" y="231.8" width="32.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-66" value="" style="fontColor=#0066CC;verticalAlign=top;verticalLabelPosition=bottom;labelPosition=center;align=center;html=1;outlineConnect=0;fillColor=#CCCCCC;strokeColor=#6881B3;gradientColor=none;gradientDirection=north;strokeWidth=2;shape=mxgraph.networks.terminal;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
-          <mxGeometry x="170" y="116" width="80" height="64" as="geometry" />
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-68" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
+          <mxGeometry x="260" y="107" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
