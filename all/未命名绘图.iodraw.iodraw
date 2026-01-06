@@ -124,11 +124,14 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-42" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-36">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-43" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-35">
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-43" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-34" target="VD5vu5qdHvzi85t2HJJb-35">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-34" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;" vertex="1" parent="1">
           <mxGeometry x="703" y="130" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-35" target="VD5vu5qdHvzi85t2HJJb-37">
+          <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;" vertex="1" parent="1">
           <mxGeometry x="800" y="210" width="45.6" height="61.800000000000004" as="geometry" />
