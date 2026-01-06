@@ -136,7 +136,7 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-44" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-35" target="VD5vu5qdHvzi85t2HJJb-37">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-35" target="VD5vu5qdHvzi85t2HJJb-52">
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-89" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;dashed=1;exitX=0.548;exitY=0.809;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-35" target="VD5vu5qdHvzi85t2HJJb-52">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-35" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
@@ -232,10 +232,10 @@
             <mxPoint x="701" y="133" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-97" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="1">
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-98" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;dashed=1;" edge="1" parent="1" source="VD5vu5qdHvzi85t2HJJb-49">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="595" y="407" as="sourcePoint" />
-            <mxPoint x="625" y="415" as="targetPoint" />
+            <mxPoint x="605" y="417" as="sourcePoint" />
+            <mxPoint x="635" y="425" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
