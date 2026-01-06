@@ -263,7 +263,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-208" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Crowdsource Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-110">
-          <mxGeometry x="342.79999999999995" y="10" width="225" height="30" as="geometry" />
+          <mxGeometry x="351.99999999999994" y="10" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-114" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=node;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="1490" y="690" width="62.5" height="60" as="geometry" />
@@ -296,7 +296,7 @@
           <mxGeometry x="1590" y="614.1" width="230" height="50" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-33" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="1550" y="100" width="225" height="30" as="geometry" />
+          <mxGeometry x="597.5" y="-110" width="225" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
