@@ -263,7 +263,10 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-114" value="" style="aspect=fixed;sketch=0;html=1;dashed=0;whitespace=wrap;verticalLabelPosition=bottom;verticalAlign=top;fillColor=#2875E2;strokeColor=#ffffff;points=[[0.005,0.63,0],[0.1,0.2,0],[0.9,0.2,0],[0.5,0,0],[0.995,0.63,0],[0.72,0.99,0],[0.5,1,0],[0.28,0.99,0]];shape=mxgraph.kubernetes.icon2;kubernetesLabel=1;prIcon=node;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="887.5" y="800" width="62.5" height="60" as="geometry" />
+          <mxGeometry x="1490" y="690" width="62.5" height="60" as="geometry" />
+        </mxCell>
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-115" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
+          <mxGeometry x="1040" y="427.8" width="69" height="64" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
