@@ -154,7 +154,7 @@
         <mxCell id="VD5vu5qdHvzi85t2HJJb-39" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
           <mxGeometry x="577.5" y="70" width="32.5" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="VD5vu5qdHvzi85t2HJJb-90" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-40" target="VD5vu5qdHvzi85t2HJJb-70">
+        <mxCell id="VD5vu5qdHvzi85t2HJJb-90" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;strokeWidth=2;" edge="1" parent="VD5vu5qdHvzi85t2HJJb-56" source="VD5vu5qdHvzi85t2HJJb-40" target="VD5vu5qdHvzi85t2HJJb-70">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="VD5vu5qdHvzi85t2HJJb-40" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="VD5vu5qdHvzi85t2HJJb-56">
