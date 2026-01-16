@@ -2132,9 +2132,6 @@
         <mxCell id="MvjUu6F7uAe9sbpajPxx-461" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="11130" y="-5545.03" width="1840" height="1120" as="geometry" />
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-423" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22sketch%3D0%3BoutlineConnect%3D0%3BfillColor%3D%230050ef%3BstrokeColor%3D%23001DBC%3Bdashed%3D0%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bhtml%3D1%3BfontSize%3D12%3BfontStyle%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshape%3Dmxgraph.aws4.car%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2211410.847120390308%22%20y%3D%22-4905.03%22%20width%3D%22410%22%20height%3D%22410%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-461">
-          <mxGeometry x="802.4203439723074" y="100" width="190.32407533593167" height="310" as="geometry" />
-        </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-425" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-461">
           <mxGeometry x="280.84712039030757" y="640" width="410" height="410" as="geometry" />
         </mxCell>
@@ -2186,7 +2183,7 @@
         <mxCell id="MvjUu6F7uAe9sbpajPxx-492" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="13970" y="-5386" width="1039.5900000000001" height="801.9399999999996" as="geometry" />
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-483" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-483" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start; background-color: rgb(251, 251, 251);&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22sketch%3D0%3BoutlineConnect%3D0%3BfillColor%3D%230050ef%3BstrokeColor%3D%23001DBC%3Bdashed%3D0%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bhtml%3D1%3BfontSize%3D12%3BfontStyle%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshape%3Dmxgraph.aws4.car%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2211410.847120390308%22%20y%3D%22-4905.03%22%20width%3D%22410%22%20height%3D%22410%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
           <mxGeometry x="360" width="314.74" height="291.94" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-484" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
@@ -2257,6 +2254,9 @@
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-514" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="17859.997120390308" y="-2880" width="410" height="410" as="geometry" />
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-423" value="&lt;span style=&quot;color: rgba(0, 0, 0, 0); font-family: monospace; font-size: 0px; text-align: start;&quot;&gt;%3CmxGraphModel%3E%3Croot%3E%3CmxCell%20id%3D%220%22%2F%3E%3CmxCell%20id%3D%221%22%20parent%3D%220%22%2F%3E%3CmxCell%20id%3D%222%22%20value%3D%22%22%20style%3D%22sketch%3D0%3BoutlineConnect%3D0%3BfillColor%3D%230050ef%3BstrokeColor%3D%23001DBC%3Bdashed%3D0%3BverticalLabelPosition%3Dbottom%3BverticalAlign%3Dtop%3Balign%3Dcenter%3Bhtml%3D1%3BfontSize%3D12%3BfontStyle%3D0%3Baspect%3Dfixed%3BpointerEvents%3D1%3Bshape%3Dmxgraph.aws4.car%3BfontColor%3D%23ffffff%3B%22%20vertex%3D%221%22%20parent%3D%221%22%3E%3CmxGeometry%20x%3D%2211410.847120390308%22%20y%3D%22-4905.03%22%20width%3D%22410%22%20height%3D%22410%22%20as%3D%22geometry%22%2F%3E%3C%2FmxCell%3E%3C%2Froot%3E%3C%2FmxGraphModel%3E&lt;/span&gt;" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="17980.000343972308" y="-2219.9999999999995" width="190.32407533593167" height="310" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
