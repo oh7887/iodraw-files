@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gHUvDryKtQxclgXV73oV">
-    <mxGraphModel dx="24420" dy="21354" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="12210" dy="14184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2211,7 +2211,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-494" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="15980" y="-6360" width="1840" height="1120" as="geometry" />
+          <mxGeometry x="15720" y="-5590" width="1840" height="1120" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-498" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;Crowdsource Device&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-494">
           <mxGeometry x="150.45381449480763" y="430" width="1514.5683992477302" height="200" as="geometry" />
