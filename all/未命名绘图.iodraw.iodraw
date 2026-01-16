@@ -1321,8 +1321,8 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="16880" y="-5250" as="sourcePoint" />
             <Array as="points">
-              <mxPoint x="16510" y="-5249" />
-              <mxPoint x="16510" y="-4020" />
+              <mxPoint x="15790" y="-5249" />
+              <mxPoint x="15790" y="-4020" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1466,7 +1466,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-418" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="12602.701221291545" y="-2930.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
+          <mxGeometry x="12070.001221291544" y="-2930.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-419" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="13680.001221291544" y="-2880.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
