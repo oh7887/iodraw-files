@@ -2206,7 +2206,7 @@
           <mxGeometry x="16030.001221291546" y="-2940.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-423" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11920" y="-6300" width="189.75" height="310" as="geometry" />
+          <mxGeometry x="12060" y="-6170" width="189.75" height="310" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-425" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="11500" y="-5570" width="410" height="410" as="geometry" />
@@ -2862,10 +2862,13 @@
           <mxGeometry x="899.7282608695651" y="24.722222222222225" width="350.5434782608695" height="49.44444444444445" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-429" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="1">
-          <mxGeometry x="12280" y="-5580" width="410" height="410" as="geometry" />
+          <mxGeometry x="12290" y="-5630" width="410" height="410" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-451" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;Crowdsource Device&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11410" y="-5840" width="1510" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-452" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/storage/Data_Share_Invitations.svg;" vertex="1" parent="1">
+          <mxGeometry x="11710" y="-6000" width="68" height="44.800000000000004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
