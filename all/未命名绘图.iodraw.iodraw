@@ -2174,14 +2174,11 @@
             <mxPoint x="13790" y="-4899.06" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-486" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;Remote Device&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
-          <mxGeometry x="13670.003814494807" y="-5094.06" width="1514.5683992477302" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-487" value="" style="editableCssRules=.*;html=1;shape=image;verticalLabelPosition=bottom;labelBackgroundColor=#ffffff;verticalAlign=top;aspect=fixed;imageAspect=0;image=data:image/svg+xml,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHhtbG5zOnY9Imh0dHBzOi8vdmVjdGEuaW8vbmFubyIgd2lkdGg9IjM3Ni4yNzQ4ODc3NTcyNjMyIiBoZWlnaHQ9IjMzOS42NzM1NDQyMTc3NjM4MyIgdmlld0JveD0iMC4xMTQwMDAwMDAwNTk2MDQ2NCAtMC4wOTAwMDAwMDM1NzYyNzg2OSA5OS41NTU5OTk3NTU4NTkzOCA4OS44NzE5OTQwMTg1NTQ2OSI+JiN4YTs8c3R5bGUgdHlwZT0idGV4dC9jc3MiPiYjeGE7CS5zdDB7ZmlsbDojNDI4NWY0O30mI3hhOwkuc3Qxe2ZpbGw6I2FlY2JmYTt9JiN4YTs8L3N0eWxlPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDAiIGQ9Ik03Ny41MjMgNDMuMzk3bDEyLjg0NCA3LjU3MnYxNC43NjdsLTEyLjg0NCA2LjY4ek01MC4zMTItLjA5bDEyLjg0NCA3LjU3MnYxNC43NjdsLTEyLjg0NCA2LjY4ek0yMy4xIDQzLjM5N2wxMi44NDQgNy41NzJ2MTQuNzY3TDIzLjEgNzIuNDE3em02OS40Ny0uNTExbDcuMS0xMS4xNjktMTIuNjY2LTIxLjU5NEg3MC42NDR2OS41aDEwLjkxOWw2Ljk3NyAxMS44OTUtNC4yNTYgNi42OTR6bS03Ni45NzktNC42TDExLjMgMzEuNDg1bDcuMjY0LTExLjg2MWg5Ljk3OWwuMDk5LTkuNUgxMy4yNDFMLjExNCAzMS41NjFsMS41NzYgMi40OTggNS41MTUgOC43Mzl6bTEzLjY2MiAzOS40NDlsNy42MDMgMTIuMDQ3aDI1LjkwMmw3LjczMy0xMi4xNjQtOC4xNDMtNC44OTktNC44MDggNy41NjRINDIuMDk1bC00Ljc0LTcuNTExeiIvPiYjeGE7CTxwYXRoIGNsYXNzPSJzdDEiIGQ9Ik03Ny41MjMgNDMuMzk3bC0xMi44NDQgNy41NzJ2MTQuNzY3bDEyLjg0NCA2LjY4ek01MC4zMTItLjA5TDM3LjQ2OCA3LjQ4MnYxNC43NjdsMTIuODQ0IDYuNjh6TTIzLjEgNDMuMzk3bC0xMi44NDQgNy41NzJ2MTQuNzY3bDEyLjg0NCA2LjY4eiIvPiYjeGE7PC9zdmc+;" vertex="1" parent="1">
           <mxGeometry x="13270.000433644962" y="-5241" width="244.45" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-492" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="12879.880000000001" y="-5490" width="1244.5722137425369" height="801.9399999999996" as="geometry" />
+          <mxGeometry x="13820.000000000002" y="-5610" width="1374.572213742535" height="801.9399999999996" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-484" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
           <mxGeometry y="510" width="314.74" height="291.94" as="geometry" />
@@ -2197,6 +2194,9 @@
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-527" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;1. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
           <mxGeometry x="-269.99618550519335" y="-113.99999999999909" width="1514.5683992477302" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-486" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;Remote Device&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-492">
+          <mxGeometry x="-139.99618550519517" y="350" width="1514.5683992477302" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-493" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;startArrow=none;startFill=0;" edge="1" parent="1">
           <mxGeometry relative="1" as="geometry">
