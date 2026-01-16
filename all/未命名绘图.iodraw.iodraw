@@ -2205,8 +2205,11 @@
         <mxCell id="MvjUu6F7uAe9sbpajPxx-422" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="16030.001221291546" y="-2940.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
         </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-431" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;endArrow=none;endFill=0;" edge="1" parent="1" source="MvjUu6F7uAe9sbpajPxx-423" target="MvjUu6F7uAe9sbpajPxx-429">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-423" value="" style="verticalLabelPosition=bottom;html=1;verticalAlign=top;align=center;strokeColor=none;fillColor=#00BEF2;shape=mxgraph.azure.mobile_services;pointerEvents=1;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="11650" y="-6040" width="199.75" height="310" as="geometry" />
+          <mxGeometry x="11587.25" y="-5920" width="199.75" height="310" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-425" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="1">
           <mxGeometry x="11787" y="-5370" width="410" height="410" as="geometry" />
