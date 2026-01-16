@@ -2208,8 +2208,8 @@
             <mxPoint x="14316.979072474038" y="-5655.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-490" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_48_port_L2.svg;" vertex="1" parent="1">
-          <mxGeometry x="14450" y="-5720" width="78" height="52.8" as="geometry" />
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-491" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="1">
+          <mxGeometry x="15860" y="-6520" width="380" height="450" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
