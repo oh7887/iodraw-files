@@ -2549,16 +2549,16 @@
           <mxGeometry x="16260" y="-3550" width="244.45" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-480" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="13450" y="-6500" width="1508" height="808.8" as="geometry" />
+          <mxGeometry x="13710" y="-6240" width="1280" height="770" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-477" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-480">
-          <mxGeometry x="267.6923076923077" width="295.5889830508475" height="274.1694915254238" as="geometry" />
+          <mxGeometry x="227.22" width="215.62" height="200" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-478" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-480">
-          <mxGeometry y="534.6305084745762" width="295.5889830508475" height="274.1694915254238" as="geometry" />
+          <mxGeometry y="420" width="314.74" height="291.94" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-479" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-480">
-          <mxGeometry x="892.3076923076924" y="299.87288135593224" width="295.5889830508475" height="274.1694915254238" as="geometry" />
+          <mxGeometry x="757.396449704142" y="285.4872881355933" width="218.80809185347186" height="202.95243302351017" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
