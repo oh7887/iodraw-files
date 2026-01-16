@@ -2194,7 +2194,7 @@
           <mxGeometry x="13290.000433644962" y="-5980" width="244.45" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-491" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="1">
-          <mxGeometry x="15780" y="-6200" width="240" height="270" as="geometry" />
+          <mxGeometry x="15320" y="-6190" width="240" height="270" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-492" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="13930" y="-6310" width="1039.5900000000001" height="801.9399999999996" as="geometry" />
@@ -2212,6 +2212,12 @@
           <mxGeometry relative="1" as="geometry">
             <mxPoint x="647.7656842650395" y="654.9700000000003" as="sourcePoint" />
             <mxPoint x="386.9790724740378" y="654.9700000000003" as="targetPoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-493" value="" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;startArrow=none;startFill=0;" edge="1" parent="1">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="15070" y="-5824.73" as="sourcePoint" />
+            <mxPoint x="15850" y="-5824.73" as="targetPoint" />
           </mxGeometry>
         </mxCell>
       </root>
