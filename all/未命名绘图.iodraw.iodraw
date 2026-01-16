@@ -1808,11 +1808,6 @@
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1542" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2811.9" y="-600" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
-        <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1618" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="3_31vgpX0iyWkwJ4Gk0R-1544">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="2900.0000000000005" y="-640" as="targetPoint" />
-          </mxGeometry>
-        </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1544" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2920" y="-600" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
@@ -2048,6 +2043,12 @@
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1615" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
           <mxGeometry x="3018.1" y="-600" width="45.6" height="61.800000000000004" as="geometry" />
+        </mxCell>
+        <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1619" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0.5;entryY=1;entryDx=0;entryDy=0;endArrow=classic;endFill=1;strokeWidth=2;curved=1;exitX=0.561;exitY=0.013;exitDx=0;exitDy=0;exitPerimeter=0;" edge="1" parent="1" source="3_31vgpX0iyWkwJ4Gk0R-1544">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="2844" y="-590" as="sourcePoint" />
+            <mxPoint x="2902" y="-640" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
       </root>
     </mxGraphModel>
