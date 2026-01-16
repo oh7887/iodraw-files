@@ -2270,9 +2270,6 @@
         <mxCell id="MvjUu6F7uAe9sbpajPxx-594" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="20950" y="-5810" width="2110" height="4100.110000000001" as="geometry" />
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-513" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-594">
-          <mxGeometry x="0.0012212915462441742" y="743.9984644767001" width="454.60656990068765" height="616.1115355233004" as="geometry" />
-        </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-514" value="" style="sketch=0;outlineConnect=0;fillColor=#0050ef;strokeColor=#001DBC;dashed=0;verticalLabelPosition=bottom;verticalAlign=top;align=center;html=1;fontSize=12;fontStyle=0;aspect=fixed;pointerEvents=1;shape=mxgraph.aws4.car;fontColor=#ffffff;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-594">
           <mxGeometry x="12.137120390307246" y="1610.1100000000006" width="410" height="410" as="geometry" />
         </mxCell>
@@ -2433,6 +2430,9 @@
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-561" value="&lt;span style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="11250" y="-1460" width="1540" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-513" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="13140.001221291546" y="-2340.0015355233" width="454.60656990068765" height="616.1115355233004" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
