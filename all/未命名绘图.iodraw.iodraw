@@ -1,6 +1,6 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="第 1 页" id="gHUvDryKtQxclgXV73oV">
-    <mxGraphModel dx="7140" dy="10599" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="14280" dy="14184" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -2422,7 +2422,7 @@
             <mxPoint x="253.95348837209303" y="59.50043478260863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-593" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;5. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-593" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;5. Po&lt;/font&gt;&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15624.943814494807" y="-4359.999999999999" width="1514.5683992477302" height="200" as="geometry" />
         </mxCell>
       </root>
