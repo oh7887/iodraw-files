@@ -2228,9 +2228,6 @@
             <mxPoint x="471.42195208373056" y="743.3299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-528" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;1. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-503">
-          <mxGeometry x="-750.8433058955015" y="-89.99999999999909" width="1514.5683992477302" height="200" as="geometry" />
-        </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-508" value="" style="group" vertex="1" connectable="0" parent="1">
           <mxGeometry x="15360" y="-5266" width="240" height="270" as="geometry" />
         </mxCell>
@@ -2296,6 +2293,9 @@
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-526" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;1. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="13020.003814494807" y="-4479.999999999999" width="1514.5683992477302" height="200" as="geometry" />
+        </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-528" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;1. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="14810.003814494807" y="-5629.999999999999" width="1514.5683992477302" height="200" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
