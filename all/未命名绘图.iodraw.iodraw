@@ -1802,17 +1802,14 @@
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1535" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;Blockchain Network&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3772.5" y="245" width="225" height="30" as="geometry" />
         </mxCell>
-        <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1541" style="rounded=0;orthogonalLoop=1;jettySize=auto;html=1;endArrow=none;endFill=0;dashed=1;strokeWidth=2;" edge="1" parent="1" source="3_31vgpX0iyWkwJ4Gk0R-1542" target="3_31vgpX0iyWkwJ4Gk0R-1544">
-          <mxGeometry relative="1" as="geometry" />
-        </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1542" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2820.35" y="-413.6" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2790" y="-480" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1544" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="3058.2000000000003" y="-405.40000000000003" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="3019.15" y="-480" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1547" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2570" y="-389.99999999999994" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2666.4" y="-479.99999999999994" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-844" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2190" y="760" width="1380" height="270" as="geometry" />
