@@ -2262,7 +2262,7 @@
           <mxGeometry x="17970.000433644964" y="-1120" width="244.45" height="220" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-516" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="15370" y="-5256" width="240" height="270" as="geometry" />
+          <mxGeometry x="17980" y="-660" width="240" height="270" as="geometry" />
         </mxCell>
         <mxCell id="MvjUu6F7uAe9sbpajPxx-517" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="MvjUu6F7uAe9sbpajPxx-516">
           <mxGeometry width="240" height="270" as="geometry" />
