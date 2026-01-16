@@ -2208,6 +2208,9 @@
             <mxPoint x="14316.979072474038" y="-5655.03" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-490" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/switch/Switch_48_port_L2.svg;" vertex="1" parent="1">
+          <mxGeometry x="14450" y="-5720" width="78" height="52.8" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
