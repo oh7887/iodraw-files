@@ -1803,13 +1803,13 @@
           <mxGeometry x="3772.5" y="245" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1542" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2774.7" y="-390" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2810" y="-530" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1544" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2934.4" y="-390" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2910" y="-451.8" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1547" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2666.4" y="-479.99999999999994" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2694.6499999999996" y="-570" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-844" value="" style="ellipse;whiteSpace=wrap;html=1;strokeWidth=3;fillColor=#d5e8d4;strokeColor=#82b366;" vertex="1" parent="1">
           <mxGeometry x="2190" y="760" width="1380" height="270" as="geometry" />
