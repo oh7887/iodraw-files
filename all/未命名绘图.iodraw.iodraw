@@ -1803,10 +1803,10 @@
           <mxGeometry x="3772.5" y="245" width="225" height="30" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1542" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2810" y="-530" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2815.6" y="-615" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1544" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;imageBackground=none;imageBorder=none;strokeWidth=2;" vertex="1" parent="1">
-          <mxGeometry x="2920" y="-530" width="45.6" height="61.800000000000004" as="geometry" />
+          <mxGeometry x="2920" y="-600" width="45.6" height="61.800000000000004" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1547" value="" style="image;points=[];aspect=fixed;html=1;align=center;shadow=0;dashed=0;image=img/lib/allied_telesis/computer_and_terminals/Personal_Computer.svg;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="2694.6499999999996" y="-570" width="45.6" height="61.800000000000004" as="geometry" />
@@ -1950,7 +1950,7 @@
           </mxGeometry>
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1613" value="" style="group" vertex="1" connectable="0" parent="1">
-          <mxGeometry x="2774.7" y="-810" width="185.3" height="150" as="geometry" />
+          <mxGeometry x="2800.2999999999997" y="-800" width="185.3" height="150" as="geometry" />
         </mxCell>
         <mxCell id="3_31vgpX0iyWkwJ4Gk0R-1591" value="" style="group" vertex="1" connectable="0" parent="3_31vgpX0iyWkwJ4Gk0R-1613">
           <mxGeometry y="95.45454545454545" width="185.3" height="54.54545454545455" as="geometry" />
