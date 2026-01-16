@@ -2237,6 +2237,9 @@
             <mxPoint x="471.42195208373056" y="743.3299999999999" as="targetPoint" />
           </mxGeometry>
         </mxCell>
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-506" value="" style="sketch=0;pointerEvents=1;shadow=0;dashed=0;html=1;strokeColor=none;fillColor=#505050;labelPosition=center;verticalLabelPosition=bottom;verticalAlign=top;outlineConnect=0;align=center;shape=mxgraph.office.concepts.sign_up;" vertex="1" parent="1">
+          <mxGeometry x="15330" y="-6180" width="240" height="270" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
