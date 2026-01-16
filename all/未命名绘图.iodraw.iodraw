@@ -2422,7 +2422,7 @@
             <mxPoint x="253.95348837209303" y="59.50043478260863" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-593" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;1. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-593" value="&lt;font style=&quot;font-size: 120px;&quot;&gt;&lt;b&gt;&lt;font style=&quot;font-size: 120px;&quot;&gt;5. Post&amp;nbsp;&lt;/font&gt;transaction&lt;/b&gt;&lt;/font&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="15624.943814494807" y="-4359.999999999999" width="1514.5683992477302" height="200" as="geometry" />
         </mxCell>
       </root>
