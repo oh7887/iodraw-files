@@ -2551,10 +2551,14 @@
         <mxCell id="MvjUu6F7uAe9sbpajPxx-478" value="" style="image;aspect=fixed;html=1;points=[];align=center;fontSize=12;image=img/lib/azure2/compute/Images.svg;" vertex="1" parent="1">
           <mxGeometry x="14480" y="-6120" width="314.74" height="291.94" as="geometry" />
         </mxCell>
-        <mxCell id="MvjUu6F7uAe9sbpajPxx-481" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;curved=1;exitX=0.25;exitY=0;exitDx=0;exitDy=0;startArrow=classic;startFill=0;" edge="1" parent="1">
+        <mxCell id="MvjUu6F7uAe9sbpajPxx-481" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=16;curved=1;startArrow=classic;startFill=0;entryX=0.004;entryY=0.491;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" target="MvjUu6F7uAe9sbpajPxx-478">
           <mxGeometry relative="1" as="geometry">
-            <mxPoint x="14216" y="-4010" as="sourcePoint" />
+            <mxPoint x="13020" y="-5700" as="sourcePoint" />
             <mxPoint x="12170" y="-5270" as="targetPoint" />
+            <Array as="points">
+              <mxPoint x="13370" y="-4010" />
+              <mxPoint x="13370" y="-5977" />
+            </Array>
           </mxGeometry>
         </mxCell>
       </root>
