@@ -2517,6 +2517,9 @@
         <mxCell id="Ca5gyIB-WqWqdgwyXM0k-28" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;目标发现与动态取景&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
           <mxGeometry x="4270" y="-1981.8899999999999" width="220" height="30" as="geometry" />
         </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-29" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;结束&lt;/b&gt;&lt;/span&gt;" style="strokeWidth=2;html=1;shape=mxgraph.flowchart.start_1;whiteSpace=wrap;" vertex="1" parent="1">
+          <mxGeometry x="3980" y="-1558" width="280" height="98" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
