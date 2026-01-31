@@ -2517,7 +2517,10 @@
           <mxGeometry x="3965" y="-1662.8899999999999" width="310" height="70" as="geometry" />
         </mxCell>
         <mxCell id="Ca5gyIB-WqWqdgwyXM0k-27" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=default;dashed=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
-          <mxGeometry x="3790" y="-2530" width="720" height="540" as="geometry" />
+          <mxGeometry x="3780" y="-2000" width="720" height="540" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-28" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;头盔定位与主视角建模&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="4285" y="-2513.89" width="220" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
