@@ -2513,8 +2513,11 @@
             <mxPoint x="4120" y="-1701" as="sourcePoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;输出：主视角图像&lt;/b&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-26" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;输出：最优画面&lt;/b&gt;&lt;/span&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="3965" y="-1662.8899999999999" width="310" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-27" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;strokeColor=default;dashed=1;fillColor=none;fontStyle=1" vertex="1" parent="1">
+          <mxGeometry x="3790" y="-2530" width="720" height="540" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
