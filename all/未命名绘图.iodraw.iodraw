@@ -2443,7 +2443,7 @@
           </mxCell>
         </UserObject>
         <mxCell id="Ca5gyIB-WqWqdgwyXM0k-3" value="" style="shape=parallelogram;perimeter=parallelogramPerimeter;whiteSpace=wrap;html=1;fixedSize=1;" vertex="1" parent="1">
-          <mxGeometry x="3950" y="-2473.89" width="332" height="60" as="geometry" />
+          <mxGeometry x="3950" y="-2500" width="290" height="60" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
