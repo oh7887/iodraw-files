@@ -2492,6 +2492,14 @@
         <mxCell id="Ca5gyIB-WqWqdgwyXM0k-19" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;目标发现&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
           <mxGeometry x="3991.5" y="-1981.89" width="257" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-20" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;strokeWidth=2;" edge="1" parent="1" target="Ca5gyIB-WqWqdgwyXM0k-21">
+          <mxGeometry relative="1" as="geometry">
+            <mxPoint x="4140" y="-2212" as="sourcePoint" />
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-21" value="&lt;span style=&quot;font-size: 20px;&quot;&gt;&lt;b&gt;头盔位置确定&lt;/b&gt;&lt;/span&gt;" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="4011.5" y="-2176" width="257" height="70" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
