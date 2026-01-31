@@ -2448,6 +2448,9 @@
         <mxCell id="Ca5gyIB-WqWqdgwyXM0k-4" value="&lt;b&gt;&lt;font style=&quot;font-size: 20px;&quot;&gt;输入：头盔实时位姿&lt;/font&gt;&lt;/b&gt;" style="shape=parallelogram;html=1;strokeWidth=2;perimeter=parallelogramPerimeter;whiteSpace=wrap;rounded=1;arcSize=12;size=0.23;" vertex="1" parent="1">
           <mxGeometry x="3965" y="-2513.89" width="310" height="70" as="geometry" />
         </mxCell>
+        <mxCell id="Ca5gyIB-WqWqdgwyXM0k-6" value="" style="rounded=1;whiteSpace=wrap;html=1;absoluteArcSize=1;arcSize=14;strokeWidth=2;" vertex="1" parent="1">
+          <mxGeometry x="3973" y="-2350" width="257" height="100" as="geometry" />
+        </mxCell>
       </root>
     </mxGraphModel>
   </diagram>
