@@ -46,7 +46,7 @@
         <mxCell id="KMwgnyEt3zFuOdZ6u8Xa-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;代理合约（Proxy Contract）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
           <mxGeometry x="28510" y="-640" width="468" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="KMwgnyEt3zFuOdZ6u8Xa-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;逻辑合约（logic）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+        <mxCell id="KMwgnyEt3zFuOdZ6u8Xa-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;逻辑合约（logic Contract）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
           <mxGeometry x="29370" y="-640" width="468" height="70" as="geometry" />
         </mxCell>
       </root>
