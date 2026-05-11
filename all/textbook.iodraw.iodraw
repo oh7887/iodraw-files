@@ -1,56 +1,86 @@
 <mxfile host="Electron" agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) ioDraw.com/3.5.1 Chrome/124.0.6367.49 Electron/30.0.0 Safari/537.36" version="24.7.17">
   <diagram name="Page-1" id="hqYUx4DbIe6rKKry2-TN">
-    <mxGraphModel dx="-4174" dy="15462" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
+    <mxGraphModel dx="4572" dy="15509" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="tXX4LIWKe8iF6w4H3Q3K-1" value="" style="rounded=0;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="7180" y="-13900" width="16210" height="15660" as="geometry" />
-        </mxCell>
         <mxCell id="-aIcg7nMcptP4GxtfhXj-5" value="" style="ellipse;whiteSpace=wrap;html=1;fillColor=#e1d5e7;strokeColor=#9673a6;" parent="1" vertex="1">
           <mxGeometry x="19870" y="12025" width="4440" height="730" as="geometry" />
         </mxCell>
-        <mxCell id="-aIcg7nMcptP4GxtfhXj-529" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30335.066666666666" y="-580" as="sourcePoint" />
-            <mxPoint x="30335" y="-670" as="targetPoint" />
+        <mxCell id="KMwgnyEt3zFuOdZ6u8Xa-2" value="&lt;font size=&quot;1&quot; style=&quot;&quot;&gt;&lt;b style=&quot;font-size: 25px;&quot;&gt;代理合约（Proxy Contract）&lt;/b&gt;&lt;/font&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=#FFFFFF;" parent="1" vertex="1">
+          <mxGeometry x="28510" y="-640" width="468" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="KMwgnyEt3zFuOdZ6u8Xa-3" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;逻辑合约（Logic Contract）&lt;/font&gt;&lt;/b&gt;" style="rounded=0;whiteSpace=wrap;html=1;strokeColor=none;" parent="1" vertex="1">
+          <mxGeometry x="29370" y="-650" width="468" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-9" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="28494" y="-570" width="500" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-10" value="" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
+          <mxGeometry x="29356" y="-570" width="496" height="330" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-12" value="" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1" source="T3ivJnf_HORVmM3zJ0oh-10" target="T3ivJnf_HORVmM3zJ0oh-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29660" y="20" as="sourcePoint" />
+            <mxPoint x="29360" y="-400" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aIcg7nMcptP4GxtfhXj-532" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;entryX=0;entryY=0.75;entryDx=0;entryDy=0;curved=1;" parent="1" target="T3ivJnf_HORVmM3zJ0oh-8" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30410" y="-720" as="sourcePoint" />
-            <mxPoint x="30520" y="-880" as="targetPoint" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-13" value="&lt;b&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Code&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29539" y="-486" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-14" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Storage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29539" y="-320" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-15" value="" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="28994" y="-472" as="sourcePoint" />
+            <mxPoint x="28493" y="-471" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aIcg7nMcptP4GxtfhXj-533" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;curved=1;" parent="1" target="T3ivJnf_HORVmM3zJ0oh-7" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30410" y="-720" as="sourcePoint" />
-            <mxPoint x="30520" y="-679.9523809523816" as="targetPoint" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-16" value="" style="endArrow=none;html=1;rounded=0;exitX=1.002;exitY=0.661;exitDx=0;exitDy=0;exitPerimeter=0;entryX=-0.001;entryY=0.662;entryDx=0;entryDy=0;entryPerimeter=0;" edge="1" parent="1">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="28995" y="-380" as="sourcePoint" />
+            <mxPoint x="28494" y="-379" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="-aIcg7nMcptP4GxtfhXj-536" value="" style="shape=cross;whiteSpace=wrap;html=1;rotation=45;fillColor=#000000;size=0;" parent="1" vertex="1">
-          <mxGeometry x="30450" y="-812" width="30.36" height="30" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-22" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Code&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28679" y="-530" width="130" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="-aIcg7nMcptP4GxtfhXj-745" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="T3ivJnf_HORVmM3zJ0oh-3" edge="1">
-          <mxGeometry relative="1" as="geometry">
-            <mxPoint x="30180" y="-720" as="sourcePoint" />
-            <mxPoint x="30260" y="-720" as="targetPoint" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-23" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 30px;&quot;&gt;Storage&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28679" y="-440" width="130" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-24" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;Unallocated Storage&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28380" y="-300" width="720" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-25" value="" style="endArrow=classic;html=1;rounded=0;entryX=0;entryY=0.25;entryDx=0;entryDy=0;exitX=1.004;exitY=0.09;exitDx=0;exitDy=0;exitPerimeter=0;strokeWidth=4;" edge="1" parent="1" source="T3ivJnf_HORVmM3zJ0oh-9" target="T3ivJnf_HORVmM3zJ0oh-10">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="28870" y="-250" as="sourcePoint" />
+            <mxPoint x="28920" y="-300" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="T3ivJnf_HORVmM3zJ0oh-3" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;;&quot;&gt;代理管理合约&lt;/span&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt; background-color: initial;&quot;&gt;Proxy Admin Contract&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30020" y="-770" width="150" height="100" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-26" value="" style="endArrow=classic;html=1;rounded=0;strokeWidth=4;" edge="1" parent="1" target="T3ivJnf_HORVmM3zJ0oh-9">
+          <mxGeometry width="50" height="50" relative="1" as="geometry">
+            <mxPoint x="29350" y="-480" as="sourcePoint" />
+            <mxPoint x="29366" y="-477" as="targetPoint" />
+          </mxGeometry>
         </mxCell>
-        <mxCell id="T3ivJnf_HORVmM3zJ0oh-5" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;代理合约&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: &amp;quot;Times New Roman&amp;quot;; font-size: 10.5pt;&quot;&gt;Proxy Contract&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30260" y="-770" width="150" height="100" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-27" value="&lt;span style=&quot;font-size: 30px;&quot;&gt;&lt;b&gt;delegatecall()&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29090" y="-600" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T3ivJnf_HORVmM3zJ0oh-6" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;用户&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;User&lt;/font&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30260" y="-584" width="150" height="100" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-28" value="&lt;b style=&quot;&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;委托调用&lt;/font&gt;&lt;/b&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29080" y="-630" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T3ivJnf_HORVmM3zJ0oh-7" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;逻辑合约-v2&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 方正新报宋简体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Logic Contract&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30520" y="-720" width="150" height="100" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-29" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;智能合约代码&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28625" y="-569" width="230" height="70" as="geometry" />
         </mxCell>
-        <mxCell id="T3ivJnf_HORVmM3zJ0oh-8" value="&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;逻辑合约-v1&lt;/font&gt;&lt;/p&gt;&lt;p style=&quot;margin: 0pt 0pt 0.0001pt; font-family: Calibri; font-size: 10.5pt;&quot; class=&quot;MsoNormal&quot;&gt;&lt;span style=&quot;font-family: 方正新报宋简体; font-size: 10.5pt;&quot;&gt;&lt;font face=&quot;Times New Roman&quot;&gt;Logic Contract&lt;/font&gt;&lt;/span&gt;&lt;/p&gt;" style="rounded=0;whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="30520" y="-930" width="150" height="100" as="geometry" />
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-30" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;数据存储空间&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28625" y="-470" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-37" value="&lt;span style=&quot;--tw-border-spacing-x: 0; --tw-border-spacing-y: 0; --tw-translate-x: 0; --tw-translate-y: 0; --tw-rotate: 0; --tw-skew-x: 0; --tw-skew-y: 0; --tw-scale-x: 1; --tw-scale-y: 1; --tw-pan-x: ; --tw-pan-y: ; --tw-pinch-zoom: ; --tw-scroll-snap-strictness: proximity; --tw-gradient-from-position: ; --tw-gradient-via-position: ; --tw-gradient-to-position: ; --tw-ordinal: ; --tw-slashed-zero: ; --tw-numeric-figure: ; --tw-numeric-spacing: ; --tw-numeric-fraction: ; --tw-ring-inset: ; --tw-ring-offset-width: 0px; --tw-ring-offset-color: #fff; --tw-ring-color: rgb(59 130 246 / .5); --tw-ring-offset-shadow: 0 0 #0000; --tw-ring-shadow: 0 0 #0000; --tw-shadow: 0 0 #0000; --tw-shadow-colored: 0 0 #0000; --tw-blur: ; --tw-brightness: ; --tw-contrast: ; --tw-grayscale: ; --tw-hue-rotate: ; --tw-invert: ; --tw-saturate: ; --tw-sepia: ; --tw-drop-shadow: ; --tw-backdrop-blur: ; --tw-backdrop-brightness: ; --tw-backdrop-contrast: ; --tw-backdrop-grayscale: ; --tw-backdrop-hue-rotate: ; --tw-backdrop-invert: ; --tw-backdrop-opacity: ; --tw-backdrop-saturate: ; --tw-backdrop-sepia: ; --tw-contain-size: ; --tw-contain-layout: ; --tw-contain-paint: ; --tw-contain-style: ; box-sizing: border-box; font-weight: 600; color: rgba(0, 0, 0, 0.96); font-family: D-DINExp, &amp;quot;DM Sans&amp;quot;, -apple-system, BlinkMacSystemFont, &amp;quot;Segoe UI&amp;quot;, Roboto, &amp;quot;Helvetica Neue&amp;quot;, Arial, &amp;quot;Noto Sans&amp;quot;, sans-serif, &amp;quot;Apple Color Emoji&amp;quot;, &amp;quot;Segoe UI Emoji&amp;quot;, &amp;quot;Segoe UI Symbol&amp;quot;, &amp;quot;Noto Color Emoji&amp;quot;; text-align: start; background-color: rgb(255, 255, 255);&quot;&gt;&lt;font style=&quot;font-size: 25px;&quot;&gt;未分配存储空间&lt;/font&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="28640" y="-360" width="230" height="70" as="geometry" />
+        </mxCell>
+        <mxCell id="T3ivJnf_HORVmM3zJ0oh-38" value="&lt;span style=&quot;font-size: 25px;&quot;&gt;&lt;b&gt;智能合约代码&lt;/b&gt;&lt;/span&gt;" style="text;html=1;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+          <mxGeometry x="29489" y="-530" width="230" height="70" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
